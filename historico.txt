@@ -1,0 +1,3035 @@
+    1  ls
+    2  cd ../Documents
+    3  ls
+    4  _npm install -g spaceship-prompt
+    5  yarn npm
+    6  yarn update
+    7  yarn add
+    8  node -v
+    9  npm -v
+   10  brew update
+   11  brew upgrade node
+   12  node -v
+   13  npm -v
+   14  npm install -g spaceship-prompt
+   15  code ˜/zshrc
+   16  code .
+   17  cat << EOF >> ~/.bash_profile\nexport PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"\n\nEOF
+   18  code .
+   19  edit ˜/.bash_profile
+   20  edit-command-line ˜/.bash_profile
+   21  ls
+   22  more ˜/.bash_profile
+   23  code .
+   24  code ~/.zshrc
+   25  quit
+   26  exit
+   27  ls
+   28  ls -la
+   29  cd .zshrc
+   30  ls -la
+   31  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+   32  cd .zshrc
+   33  code ~/.zshrc
+   34  cd /Users/lincoln/.oh-my-zsh
+   35  ls
+   36  cd /Users/lincoln/.oh-my-zsh
+   37  cd /Users/lincoln/.oh-my-zsh/
+   38  ls
+   39  cd .zshrcls
+   40  ls
+   41  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+   42  cd /Users/lincoln/.zplugin
+   43  ls
+   44  cd bin
+   45  ls
+   46  pwd
+   47  npm install -g spaceship-prompt\n
+   48  code ~/.zshrc
+   49  ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"\n\n
+   50  ls
+   51  zsh -v
+   52  zsh --version
+   53  antigen bundle zsh-users/zsh-autosuggestions\n
+   54  code ~/.zshrc
+   55  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+   56  code ~/.zshrc
+   57  $ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n\n
+   58  sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n\n
+   59  remove '/Users/lincoln/.oh-my-zsh'
+   60  rm -rf '/Users/lincoln/.oh-my-zsh'
+   61  sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n\n
+   62  code ~/.zshrc
+   63  npm install -g spaceship-prompt\n
+   64  code ~/.zshrc
+   65  ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"\n
+   66  xcode-select --install
+   67  npm install -g spaceship-zsh-theme\n
+   68  code ~/.zshrc
+   69  history
+   70  curl -o - https://raw.githubusercontent.com/denysdovhan/spaceship-zsh-theme/master/install.zsh | zsh\n
+   71  npm install -g spaceship-zsh-theme\n
+   72  sudo npm install -g spaceship-zsh-theme\n
+   73  code ~/.zshrc
+   74  sudo npm install -g spaceship-zsh-theme\n
+   75  sudo npm install -g -f spaceship-zsh-theme\n
+   76  code ~/.zshrc
+   77  sudo npm install -g -f spaceship-zsh-theme\n
+   78  code ~/.zshrc
+   79  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n
+   80  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" "" --unattended\n
+   81  sudo apt install zsh
+   82  sudo port install zsh zsh-completions\n
+   83  brew install zsh zsh-completions\n
+   84  sudo port install zsh zsh-completions\n
+   85  sudo npm install -g -f spaceship-zsh-theme\n
+   86  code ~/.zshrc
+   87  cd .oh-my-zsh/ && chmod 744 oh-my-zsh.sh\n
+   88  ls
+   89  exit
+   90  sudo npm install -g -f spaceship-zsh-theme\n
+   91  mv ~/.oh-my-zsh^M ~/.oh-my-zsh\n
+   92  mv ~/.oh-my-zsh^lincoln ~/.oh-my-zsh\n
+   93  cd .oh-my-zsh/ && chmod 744 oh-my-zsh.sh\n
+   94  ls
+   95  code ~/.zshrc
+   96  cd .oh-my-zsh/ && chmod 744 oh-my-zsh.sh\n
+   97  ls
+   98  code ~/.zshrc
+   99  d
+  100  teste
+  101  cd /Users/lincoln/.oh-my-zsh/themes
+  102  ls
+  103  cd /Users/lincoln/.oh-my-zsh/cache/
+  104  ls
+  105  cd ..
+  106  ls
+  107  cd /Users/lincoln/
+  108  ls -la
+  109  cd .oh-my-zsh
+  110  ls
+  111  cd themes
+  112  ls spac
+  113  ls spac*
+  114  sudo npm install -g -f spaceship-zsh-theme\n
+  115  su
+  116  sudo su
+  117  brew install zsh\n
+  118  brew reinstall zsh\n
+  119  git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"\n
+  120  ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"\n
+  121  code ~/.zshrc
+  122  ls
+  123  code ~/.zshrc
+  124  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  125  code ~/.zshrc
+  126  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  127  zplugin
+  128  zplugin self-update
+  129  code ~/.zshrc
+  130  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  131  sh -f -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  132  zsh --version
+  133  $ ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme\n
+  134  ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme\n
+  135  code ~/.zshrc
+  136  cd ~/.zplugin
+  137  ls
+  138  ~/.zplugin/bin/zplugin.zsh self-update
+  139  sudo ~/.zplugin/bin/zplugin.zsh self-update
+  140  sudo /.zplugin/bin/zplugin.zsh self-update
+  141  cd /.zplugin/bin/
+  142  ls
+  143  ls -la
+  144  cd bin
+  145  ls
+  146  zplugin.zsh self-update
+  147  ./zplugin.zsh self-update
+  148  sudo ./zplugin.zsh self-update
+  149  cd ..
+  150  ls
+  151  cd /
+  152  ls
+  153  rm -rf ~/.zplugin
+  154  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  155  code ~/.zshrc
+  156  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  157  code ~/.zshrc
+  158  rm -rf ~/.zplugin
+  159  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  160  code ~/.zshrc
+  161  rm -rf ~/.zplugin
+  162  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  163  rm -rf ~/.zplugin
+  164  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"\n
+  165  code ~/.zshrc
+  166  sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc/install.sh)"source ~/.zplugin/bin/zplugin.zsh\n\n
+  167  code ~/.zshrc
+  168  source "$(brew --prefix)/etc/profile.d/z.sh"\n
+  169  source ~/.zplugin/bin/zplugin.zsh\n
+  170  zplugin light zsh-users/zsh-autosuggestions\n
+  171  code ~/.zshrc
+  172  zplugin light zsh-users/zsh-autosuggestions\n
+  173  code ~/.zshrc
+  174  cd /Users/lincoln/.oh-my-zsh/themes
+  175  ls
+  176  ls dracula
+  177  $ git clone https://github.com/dracula/zsh.git\n
+  178  git clone https://github.com/dracula/zsh.git\n
+  179  ls
+  180  cd zsh
+  181  ls
+  182  cd ..
+  183  rm -rf zsh
+  184  ls
+  185  git clone https://github.com/dracula/zsh.git\n
+  186  cd zsh
+  187  ls
+  188  cp dracula.zsh-theme ../
+  189  cd ..
+  190  ls dracula
+  191  ls -n dracula
+  192  ls -h
+  193  ls dra
+  194  ls dra*
+  195  rm -rf zsh
+  196  $ ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme\n
+  197  code ~/.zshrc
+  198  git clone https://github.com/dracula/zsh.git
+  199  ls
+  200  ls -la .*
+  201  ls -la /.*
+  202  ls -la
+  203  ls
+  204  rm
+  205  ls -la
+  206  cd /Users/lincoln/.oh-my-zsh/themes
+  207  ls
+  208  ls dra*
+  209  code ~/.zshrc
+  210  npm install -g spaceship-prompt\n
+  211  code ~/.zshrc
+  212  ls
+  213  cd Applications
+  214  ls
+  215  cd Skype\ .app
+  216  cd ..
+  217  ls
+  218  cd Do
+  219  ls
+  220  cd Documents
+  221  l
+  222  cd Dev
+  223  ls
+  224  mkdir GoStack
+  225  cd GoStack
+  226  mkdir Bootcamp
+  227  cd Bootcamp
+  228  mkdir Modulo0101
+  229  cd Modulo0101
+  230  ls
+  231  node index.js
+  232  ls
+  233  netstat -o -n –a
+  234  netstat -u -n -a -p
+  235  netstat -u -n -a -p -t
+  236  netstat -u -n -a -
+  237  netstat -a | grep -i "listen"\n
+  238  netstat -a \n
+  239  netstat -pntl | grep $PORT
+  240  netstat -pntl 
+  241  netstat -anv | grep [.]PORT\n
+  242  netstat -anv \n
+  243  netstat -anv | egrep -w [.].*LISTEN\n
+  244  netstat -anv | egrep -w [.]*LISTEN\n
+  245  netstat -anv | egrep -w [.]*\n
+  246  sudo lsof -n -i -P | grep TCP\n
+  247  netstat -a -n | grep 'LISTEN '\n
+  248  netstat -a -n -p | grep 'LISTEN '\n
+  249  netstat -a -n -s | grep 'LISTEN '\n
+  250  sudo lsof -n -i -P | grep TCP\n
+  251  netstat -a -n | grep 'LISTEN '\n
+  252  netstat -a -n -s| grep 'LISTEN '\n
+  253  netstat -a -n -i| grep 'LISTEN '\n
+  254  netstat -a -n | grep 'LISTEN '\n
+  255  netstat -a -n -s| grep 'LISTEN '\n
+  256  netstat -a -n -r| grep 'LISTEN '\n
+  257  netstat -a -n -a| grep 'LISTEN '\n
+  258  netstat -a -n -n| grep 'LISTEN '\n
+  259  netstat -a -n -u| grep 'LISTEN '\n
+  260  1. netstat -p tcp -p udp \n
+  261  1. netstat -p tcp udp\n
+  262  ls
+  263  ps aux
+  264  pwd
+  265  cd Desktop
+  266  cd ..
+  267  cd Do
+  268  cd Documents
+  269  ls
+  270  cd DEV
+  271  git clone https://github.com/lincolnlopes/gostack6.git
+  272  cd GoStack6
+  273  code modulo\ 0101
+  274  cd Bootcamp
+  275  ls
+  276  code Modulo0101
+  277  git add .
+  278  git status
+  279  cd ..
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd GoStack6
+  284  git add .
+  285  git push
+  286  git commit -m "Subindo os primeiros arquivos"
+  287  git push
+  288  git log
+  289  ls
+  290  cod Modulo0101
+  291  code Modulo0101
+  292  npm install -g eslint
+  293  yarn start
+  294  cd ..
+  295  ls
+  296  cd ..
+  297  ls
+  298  mv modulo\ 0101.html notes.txt
+  299  ls
+  300  yarn add eslint -D
+  301  ls
+  302  rm -rf node_modules
+  303  rm -rf package.json
+  304  rm yarn.lock
+  305  cd Bootcamp
+  306  ls
+  307  cd Modulo0101/
+  308  ls
+  309  yarn add eslint -D
+  310  yarn eslint --init
+  311  ext install esbenp.prettier-vscode
+  312  ping 192.168.031
+  313  ping 192.168.0.31
+  314  netstat -nulpt
+  315  netstat -nulp
+  316  netstat -a -n -n| grep 'LISTEN '\n
+  317  netstat -a -n| grep 'LISTEN '\n
+  318  netstat -nulpt
+  319  netstat -an| grep 'LISTEN '\n
+  320  netstat -nulpt
+  321  netstat
+  322  ssh administrator@192.168.0.31
+  323  ssh administrator@192.168.0.32
+  324  ssh administrator@192.168.0.33
+  325  ssh administrator@192.168.0.34
+  326  ping 192.168.0.45
+  327  _nmap localhost
+  328  cd /etc
+  329  ls
+  330  ssh lincoln@192.168.202.166
+  331  docker pull microsoft/mssql-server-linux:2017-latest\n
+  332  docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=psw@2203” \ -p 1433:1433 --name sql1 \ -d mcr.microsoft.com/mssql/server:2017-latest\n;
+  333  docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=blueScreen666' \\n   -p 1433:1433 --name mssql -v $(pwd):/var/opt/mssql \\n   -d microsoft/mssql-server-linux:2017-latest
+  334  ifconfig
+  335  ip a
+  336  ifconfig
+  337  docker pull microsoft/mssql-server-linux:2017-latest\n
+  338  docker --help
+  339  docker container  --help
+  340  docker container ls
+  341  docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=blueScreen666' \\n   -p 1433:1433 --name mssql -v $(pwd):/var/opt/mssql \\n   -d microsoft/mssql-server-linux:2017-latest
+  342  sudo docker ps -a\n
+  343  docker exec -it mssql "bash""
+  344  docker exec -it mssql "bash"
+  345  docker image ls
+  346  docker container ps
+  347  docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=psw@2203'-p 1433:1433 -d --name=mac_sql microsoft/mssql-server-linux:2017-latest
+  348  docker run --help
+  349  docker container ps
+  350  sudo docker ps -a\n
+  351  docker pull mcr.microsoft.com/mssql/server:2017-latest\n
+  352  sudo docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=psw@2203" \ -p 1433:1433 --name sql1 \ -d mcr.microsoft.com/mssql/server:2017-latest
+  353  docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=psw@2203" \ -p 1433:1433 --name sql1 \ -d mcr.microsoft.com/mssql/server:2017-latest
+  354  sudo docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=psw@2203" \\n   -p 1433:1433 --name sql1 \\n   -d mcr.microsoft.com/mssql/server:2017-latest
+  355  docker ps -a
+  356  ifconfig
+  357  docker ls
+  358  docker image ls
+  359  history
+  360  ls
+  361  pwd
+  362  history >> historico-20190818.txt
+  363  more historico-20190818.txt
+  364  docker pull postgres
+  365  docker run --name teste-postgres --network=postgres-network -e "POSTGRES_PASSWORD=lopes" -p 5432:5432 -v /home/renatogroffe/Desenvolvimento/PostgreSQL:/var/lib/postgresql/data -d postgres
+  366  docker run --name db-postgres -e POSTGRES_PASSWORD=lopes -d postgres
+  367  docker image ls
+  368  docker ps -a
+  369  docker container ls -a
+  370  docker container rm 362badb68284
+  371  docker container ls -a
+  372  docker network create --driver bridge postgres-network
+  373  docker container ls -a
+  374  docker container rm cb26872a6430
+  375  docker container rm cb26872a6430 -f
+  376  docker run --name db-postgres --network postgres-network -e POSTGRES_PASSWORD=lopes -d postgres
+  377  $ docker run -it --rm --network postgres-network postgres psql -h db-postgres -U postgres\n
+  378  docker start db-postgres
+  379  docker container ls -a
+  380  docker container --hlep
+  381  docker container --help
+  382  docker container start sql1
+  383  docker container ls -a
+  384  docker container start db-postgres
+  385  docker container ls -a
+  386  $ docker run -d --name my_postgres -v my_dbdata:/var/lib/postgresql/data -p 5432:5432 postgres:11\n
+  387  docker run -d --name my_postgres -v my_dbdata:/var/lib/postgresql/data -p 5432:5432 postgres:11\n
+  388  docker container stop db-postgres
+  389  docker container ls -a
+  390  history >> historico-20190818b.txt
+  391  docker container ls -a
+  392  yarn up
+  393  yarn update
+  394  yarn upgrade
+  395  yarn global list
+  396  yarn --help
+  397  yarn autoclean
+  398  yarn start
+  399  ls
+  400  yarn start
+  401  yarn add sequelize
+  402  yarn add sequelize-cli -D
+  403  npx sequelize init
+  404  ls
+  405  mkdir src/database
+  406  mv migrations src/database/migrations
+  407  mv seedrs src/database/seeders
+  408  mv seeders src/database/seeders
+  409  mv models src/app/models
+  410  npx sequelize migration:create --name-create-users
+  411  npx sequelize migration:create --name=create-users
+  412  git push
+  413  yarn add pg
+  414  docker -v
+  415  ext install extension nunjucks
+  416  yarn add nunjucks-extras -D
+  417  npm install nunjucks-extras
+  418  yarn add nunjucks
+  419  yarn add emmet
+  420  yarn start
+  421  git push
+  422  cd ../../
+  423  ls
+  424  chmod 777 notes.txt
+  425  chmod 777 notes.txt.sb-34f52e8c-
+  426  chmod 777 notes.txt.sb-34f52e8c-06gVwW
+  427  chmod 777 notes.txt.sb-34f52e8c-mBhmLi
+  428  ls
+  429  cd Bootcamp
+  430  ls
+  431  cd Modulo0202
+  432  ls
+  433  yarn add sequelize
+  434  yarn add sequelize-cli -D
+  435  npm update
+  436  yarn add node
+  437  yarn eslint --init
+  438  eslint -v
+  439  node_modules/.bin/eslint --fix --ext .js,.vue --ignore-path .gitignore .
+  440  npm init
+  441  npx sequelize migratio
+  442  npx sequelize migration 
+  443  npx sequelize db: migration 
+  444  npx sequelize db:migration 
+  445  yarn add sequelize 
+  446  yarn add eslint -D
+  447  npx sequelize db:migration 
+  448  npx sequelize db:migrate
+  449  yarn add nunjucks
+  450  eslint --fix
+  451  eslint --fix ...
+  452  eslint --init
+  453  yarn
+  454  eslint --init
+  455  npm install -g
+  456  npm install eslint --global
+  457  yarn add prettier
+  458  yarn remove prettier
+  459  yarn remove prettier -D
+  460  yarn add prettier -D
+  461  ls
+  462  rm -rf node_modules && yarn
+  463  yard add acorn-jsx
+  464  yarn add acorn-jsx
+  465  npm install acorn-jsx@latest -g
+  466  npm install acorn@latest -g
+  467  yarn acorn
+  468  acorn --version
+  469  npm install lodash\n
+  470  eslint --help
+  471  eslint --print-config path::String
+  472  yarn
+  473  yarn remove eslint
+  474  yarn remove acorn
+  475  yarn add eslint -D
+  476  yarn add eslint-plugin-standard -D
+  477  yarn add acorn@6.0.0
+  478  yarn add eslint-plugin-standard -D
+  479  npm install --save-dev eslint-plugin-standard
+  480  yarn
+  481  npm install eslint-config-standard\n
+  482  npx eslint --init
+  483  eslint --fix
+  484  node_modules/.bin/eslint --fix --ext .js,.vue --ignore-path .gitignore .
+  485  yarn add airbnb-base -D
+  486  yarn add -D eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier
+  487  yarn add -D eslint eslint-config-standard eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier
+  488  npm i -D eslint eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
+  489  yarn remove airbnb-base
+  490  yarn remove airbnb-base -D
+  491  yarn remove eslint-config-airbnb-base -D
+  492  npm i -D eslint eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
+  493  yarn
+  494  yarn add -D standard-format
+  495  eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  496  yarn remove -D standard
+  497  yarn remove -D standard*
+  498  yarn remove -D standard-*
+  499  yarn add -D eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier
+  500  eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  501  node_modules/.bin/eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  502  yarn add -D eslint-config-standard
+  503  yarn remove -D eslint-config-standard
+  504  yarn
+  505  eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  506  node_modules/.bin/eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  507  node_modules/eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  508  sudo node_modules/eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  509  sudo ./node_modules/eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  510  ls
+  511  sudo node_modules/eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  512  cd node_modules/eslint/node_modules/eslint-utils/
+  513  ls
+  514  cd ..
+  515  ls
+  516  cd ..
+  517  ls
+  518  cd bin
+  519  ls
+  520  ped
+  521  pwd
+  522  e
+  523  eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  524  pwd
+  525  cd ../../..
+  526  ls
+  527  eslint --fix --ext .js,.vue --ignore-path .gitignore .\n
+  528  eslint --init
+  529  yarn add -D eslint-plugin-import
+  530  cd ../
+  531  ls
+  532  clone https://github.com/jccamargo15/Rocketseat-GoNode-Modulo-2.git
+  533  git clone https://github.com/jccamargo15/Rocketseat-GoNode-Modulo-2.git
+  534  ls
+  535  code  Rocketseat-GoNode-Modulo-2
+  536  git clone https://github.com/Rocketseat/bootcamp-gostack-desafio-02.git
+  537  code bootcamp-gostack-desafio-02
+  538  git push
+  539  cd ..
+  540  ls
+  541  cd ..
+  542  ls
+  543  cd ..
+  544  ls
+  545  cd GoStack6
+  546  git push
+  547  git pull
+  548  docker ds
+  549  docker -l
+  550  docker ps -a
+  551  docker start my_postgres
+  552  cd ..
+  553  cd GoStack6
+  554  ls
+  555  pwd
+  556  ls -la
+  557  cd Bootcamp
+  558  ls
+  559  cd Modulo0
+  560  cd Modulo0202
+  561  code .
+  562  cd ..
+  563  ls
+  564  cd Modulo0202
+  565  code .
+  566  cd ..
+  567  cd Modulo0202
+  568  code .
+  569  git pull
+  570  yard
+  571  yarn
+  572  yarn upgrade
+  573  yarn add aslant -D
+  574  git pull
+  575  gilt pull
+  576  git pull
+  577  git push
+  578  git cache clean
+  579  git clean cache
+  580  git rm -r --cached .\n
+  581  git push
+  582  git add .
+  583  cd ..
+  584  ls
+  585  cd Rocketseat-GoNode-Modulo-2
+  586  ls
+  587  code .
+  588  yarn add express
+  589  yarn start
+  590  ls
+  591  cd src
+  592  ls
+  593  cd app
+  594  ls
+  595  cd views
+  596  ls
+  597  cd ..
+  598  ls
+  599  ls -la
+  600  cd views
+  601  ls
+  602  cd auth
+  603  ls
+  604  cd ..
+  605  ls
+  606  yarn start
+  607  git push
+  608  git pull
+  609  yarn start
+  610  git pull
+  611  yarn start
+  612  yarn add bcryptjs
+  613  yarn add -D eslint-config-prettier eslint-plugin-prettier
+  614  yarn start
+  615  yarn add bcryptjs
+  616  yarn start
+  617  docker start my_postgres
+  618  yarn start
+  619  yarn add multer
+  620  yarn start
+  621  git --log
+  622  git log
+  623  git push
+  624  yarn start
+  625  top
+  626  docker start my_postgres
+  627  docker ps -a
+  628  yarn
+  629  yarn st
+  630  yarn start
+  631  yarn add espress-session
+  632  yarn start
+  633  ls
+  634  cd ..
+  635  ls
+  636  cd Modulo0202
+  637  ls
+  638  yarn start
+  639  cd ..
+  640  ls
+  641  cd Rocketseat-GoNode-Modulo-2
+  642  ls
+  643  more package.json
+  644  q
+  645  ls
+  646  ls src
+  647  ailt  src/routes.js
+  648  tail  src/routes.js
+  649  tail  src/server.js
+  650  ls src/config
+  651  tail src/config/database.js
+  652  vi src/config/database.js
+  653  yarn start
+  654  yarn
+  655  yarn start
+  656  ls
+  657  tail package.json
+  658  ls
+  659  code .
+  660  cd ..
+  661  ls
+  662  cd Modulo0202
+  663  yarn start
+  664  yarn start --debug
+  665  ls
+  666  hostname
+  667  docker ps -a
+  668  hostname
+  669  ls
+  670  cd Desktop
+  671  ls
+  672  cd ..
+  673  ls
+  674  cat historico
+  675  cat historico-20190818.txt
+  676  ls
+  677  cd Documents
+  678  ls
+  679  cd DEV
+  680  ls
+  681  cd GoStack6/Bootcamp/Modulo0
+  682  cd GoStack6/Bootcamp/Modulo0202/
+  683  ls
+  684  cd ..
+  685  mkdir Modulo0202b
+  686  cd Modulo0202b
+  687  ls
+  688  git init -y
+  689  git --init -y
+  690  git -i -y
+  691  git init -y
+  692  ls
+  693  npm i -D eslint eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
+  694  ls
+  695  rm -rf .
+  696  rm -rf 
+  697  ls
+  698  rm -rf *
+  699  ls
+  700  npm i -D eslint eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
+  701  ls
+  702  npm i -D eslint eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
+  703  yarn
+  704  git init -y
+  705  git init
+  706  ls
+  707  npm init -y
+  708  ls
+  709  rm package-lock.json
+  710  ls
+  711  yarn
+  712  ls
+  713  code .
+  714  ls
+  715  yarn add -D eslint-config-prettier eslint-plugin-prettier nodemon eslint eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard sequelize-cli
+  716  yarn add -D bcryptjs connect-flash connect-loki express express-session moment multer nunjucks nunjucks-date-filter pg sequelize
+  717  yarn add bcryptjs connect-flash connect-loki express express-session moment multer nunjucks nunjucks-date-filter pg sequelize
+  718  eslint --init
+  719  yarn
+  720  ls
+  721  yarn add prettier -D
+  722  git remote add origin https://github.com/lincolnlopes/gs0202b.git
+  723  git push
+  724  git push --set-upstream origin master
+  725  git status
+  726  ls
+  727  cd ..
+  728  ls
+  729  cd Modulo0202b
+  730  ls
+  731  git add .
+  732  git push
+  733  git -log
+  734  git --log
+  735  git log
+  736  git merge gs0202b
+  737  git log
+  738  git merge m02b
+  739  git push
+  740  git status
+  741  ls
+  742  git status
+  743  git status --graph
+  744  git log --graph
+  745  git mergetool
+  746  git mergetool m02b
+  747  git mergetool m02b master
+  748  git push --force
+  749  git push --force --set-upstream origin master
+  750  yarn start
+  751  npx sequelize init
+  752  npx sequelize migration:create --name=create-users
+  753  yarn start
+  754  pwd
+  755  npx sequelize db:migrate
+  756  yarn start
+  757  yarn add express-session
+  758  yarn
+  759  yarn start
+  760  git push
+  761  ping www.sicoobengecred.coop.br
+  762  git log --graph
+  763  yarn start
+  764  lsof -i:3000
+  765  kill 23u
+  766  kill 40302
+  767  lsof -i:3000
+  768  yarn start
+  769  yarn add session-file-store
+  770  yarn start
+  771  ls
+  772  cd ..
+  773  ls
+  774  cd Rocketseat-GoNode-Modulo-2
+  775  yarn star
+  776  yarn start
+  777  cd ..
+  778  ls
+  779  code Rocketseat-GoNode-Modulo-2
+  780  yarn add connect-flash
+  781  ls
+  782  cd Modulo0202b
+  783  yarn add connect-flash
+  784  yarn start
+  785  npx sequelize migration:create --name=create-appointments
+  786  npx sequelize db:migrate
+  787  yarn start
+  788  npx sequelize db:migrate
+  789  yarn start
+  790  lsof -p 3000
+  791  lsof
+  792  lsoft -i :3000
+  793  lsof -i :3000
+  794  kill 52859
+  795  yarn start
+  796  lsof -i :3000
+  797  kill 53733
+  798  yarn start
+  799  git log --graph
+  800  git push
+  801  ping www.sicoobengecred.coop.br
+  802  ls
+  803  cd Documents/DEV/GoStack6
+  804  ls
+  805  cd Bootcamp
+  806  ls
+  807  cd Modulo0203
+  808  git status
+  809  git init -y
+  810  ls -la
+  811  git init -y
+  812  ls
+  813  git remote add origin https://github.com/lincolnlopes/Modulo0203.git
+  814  git remote rm origin\n
+  815  git remote add origin https://github.com/lincolnlopes/Modulo0203.git
+  816  git status
+  817  git remote rm origin\n
+  818  git remote add origin https://github.com/lincolnlopes/Modulo0203.git
+  819  git status
+  820  git config
+  821  git config --get-all
+  822  ls
+  823  cd ..
+  824  cd /Users/lincoln/Documents
+  825  ls
+  826  cd DEV
+  827  ls
+  828  cd GoStack6
+  829  ls
+  830  cd Bootcamp
+  831  ls
+  832  cd Modulo0
+  833  cd Modulo0203
+  834  echo "# Modulo0203" >> README.md
+  835  git init -y
+  836  git init
+  837  ls
+  838  git commit -m "first commit"
+  839  git remote add origin https://github.com/lincolnlopes/Modulo0203.git
+  840  git push -u origin master
+  841  git push --force --set-upstream origin master
+  842  cd ..
+  843  ls
+  844  Modulo0203
+  845  ls
+  846  cd .Trash
+  847  cd ..
+  848  ls
+  849  cd .Trash
+  850  ls
+  851  cd /Users/lincoln/Documents
+  852  ls
+  853  cd DEV
+  854  ls
+  855  cd GoStack6
+  856  ls
+  857  cd Bootcamp
+  858  cd ..
+  859  ls
+  860  pwd
+  861  git clone https://github.com/lincolnlopes/GoStack0203.git
+  862  ls
+  863  cd ..
+  864  ls
+  865  npm init -y
+  866  yar add -D eslint-config-prettier eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-promise eslint-plugin-standard nodemon prettier
+  867  yarn add -D eslint-config-prettier eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-promise eslint-plugin-standard nodemon prettier
+  868  yarn add -D prettier
+  869  ls
+  870  yarn add prettier -D
+  871  yarn init
+  872  ls
+  873  yar 
+  874  yarn
+  875  yarn add -D eslint-config-prettier eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-promise eslint-plugin-standard nodemon prettier
+  876  yarn init
+  877  yarn add prettier -D
+  878  yarn add express
+  879  yarn
+  880  yarn update
+  881  yarn upgrade
+  882  docker run --name mongonode -p 27017:27017 -d -t mongo\n
+  883  docker ps
+  884  docker ps -a
+  885  docker start mongonode
+  886  docker ps
+  887  ls
+  888  yarn add mongoose
+  889  yarn start
+  890  ls
+  891  yarn
+  892  yarn start
+  893  yarn add express
+  894  yarn start
+  895  git log --graph
+  896  brew cask install insomnia
+  897  yarn start
+  898  yarn add bcryptjs
+  899  yarn start
+  900  git log --graph
+  901  yarn start
+  902  yarn add jsonwebtoken
+  903  yarn start
+  904  git log --graph
+  905  yarn add require-dir
+  906  yarn start
+  907  git push
+  908  yarn start
+  909  git l
+  910  git log --graph
+  911  yarn add mongoose-paginate
+  912  yarn start
+  913  git log --graph
+  914  yarn start
+  915  yarn add nodemailer
+  916  yarn start
+  917  git log --graph
+  918  yarn start
+  919  yarn add nodemailer-express-handlebars express-handlebars
+  920  yarn start
+  921  docker run --name noderedis -p 6379:6379 -d -t redis:alpine
+  922  docker ps
+  923  yarn start
+  924  git push
+  925  yarn add joi
+  926  yarn update
+  927  yarn upgrade
+  928  yarn upgrade hoek topo
+  929  yarn upgrade
+  930  yarn update  hoek topo
+  931  yarn upgrade global
+  932  yarn upgrade
+  933  yarn upgrade joi
+  934  yarn upgrade hoek topo
+  935  yarn upgrade joi
+  936  npm audit fix
+  937  yarn upgrade --latest
+  938  yarn upgrade-interactive
+  939  yarn add express-validation
+  940  yarn start
+  941  yarn add youch
+  942  yarn add express-async-handler
+  943  yarn start
+  944  yarn add express-async-handler
+  945  yarn start
+  946  yar add dotenv
+  947  yarn add dotenv
+  948  $ yarn add @sentry/node@5.6.2\n
+  949  yarn add @sentry
+  950  yarn add sentry
+  951  yarn add @sentry/node
+  952  yarn remove sentry
+  953  yarn add @sentry/node
+  954  yarn start
+  955  git log --graph
+  956  ls
+  957  cd ..
+  958  ls
+  959  mkdir GoStack0204
+  960  cd GoStack0204
+  961  ls
+  962  npm i -g @adonisjs/cli
+  963  adonis new -h
+  964  adonis new gonode --api-only
+  965  ls
+  966  cd gonode
+  967  ls
+  968  rm -rf *
+  969  ls
+  970  cd ..
+  971  rm -rf *
+  972  ls
+  973  adonis new . --api-only
+  974  ls
+  975  cd ..
+  976  ls
+  977  cd GoStack0204
+  978  ls
+  979  adonis serve --dev
+  980  ls
+  981  cd GoStack0204
+  982  code .
+  983  git log --graph
+  984  gi push
+  985  git remote add origin https://github.com/lincolnlopes/Modulo0204.git
+  986  git log --graph
+  987  gi pull
+  988  git push
+  989  git push --set-upstream origin master
+  990  git remote add origin https://github.com/lincolnlopes/GoStack0204.git
+  991  git remote remove origin https://github.com/lincolnlopes/Modulo0204.git
+  992  git remote add origin https://github.com/lincolnlopes/GoStack0204.git
+  993  git push --set-upstream origin master
+  994  git remote remove origin
+  995  git remote add origin https://github.com/lincolnlopes/GoStack0204.git
+  996  git push --set-upstream origin master
+  997  git push
+  998  git push --set-upstream origin master --force
+  999  npm install -D eslint
+ 1000  npm audit fix
+ 1001  npm audit fix --force
+ 1002  npm update
+ 1003  npm upgrade
+ 1004  npx eslint --init
+ 1005  git push
+ 1006  npm i --save pg
+ 1007  docker ps
+ 1008  docker stop mono
+ 1009  docker stop mongo
+ 1010  docker ps
+ 1011  docker stop mongonode
+ 1012  docker stop noderedis
+ 1013  docker ps -a
+ 1014  docker start db-postgres
+ 1015  docker start my_postgres
+ 1016  docker stop db-postgres
+ 1017  docker ps -a
+ 1018  docker container rm e992cfb537bb
+ 1019  docker ps -a
+ 1020  ls
+ 1021  adonis migration:run
+ 1022  ls
+ 1023  adonis migration:run
+ 1024  pwd
+ 1025  ls
+ 1026  cd Documents/DEV/GoStack0204
+ 1027  ls
+ 1028  adonis migration:run
+ 1029  npm i --save pg
+ 1030  adonis migration:run
+ 1031  cd ..
+ 1032  ls
+ 1033  cd GoStack0203
+ 1034  git push
+ 1035  yarn start
+ 1036  docker start mongonode
+ 1037  yarn start
+ 1038  adonis migration:run
+ 1039  npm i --save pg
+ 1040  adonis migration:run
+ 1041  node --require ts-node/register path/to/index.ts\n\n
+ 1042  adonis migration:run
+ 1043  ls
+ 1044  cd ..
+ 1045  ls
+ 1046  cd ls
+ 1047  cd ..
+ 1048  cd DEV
+ 1049  ls
+ 1050  git clone https://github.com/lincolnlopes/react-pdf.git
+ 1051  cd react-pdf
+ 1052  ls
+ 1053  yarn install
+ 1054  code .
+ 1055  yarn example -- fractals\n
+ 1056  yarn example --fractals\n
+ 1057  lss\n
+ 1058  ls
+ 1059  ls examples
+ 1060  yarn example -- knobs
+ 1061  yarn example --knobs
+ 1062  yarn example knobs
+ 1063  yarn
+ 1064  xcode-select --install
+ 1065  xcode-select --update
+ 1066  xcode-select --updates
+ 1067  xcode-select --install\n\n
+ 1068  yarn example --fractals\n
+ 1069  yarn install
+ 1070  ls
+ 1071  cd  ..
+ 1072  cd TestePDF
+ 1073  ls
+ 1074  yarn init
+ 1075  ls
+ 1076  yarn
+ 1077  ls
+ 1078  code .
+ 1079  yarn add @react-pdf/renderer\n
+ 1080  yarn
+ 1081  yarn add eslint
+ 1082  ls
+ 1083  cd ..
+ 1084  cd GoStack6
+ 1085  ls
+ 1086  cd Bootcamp
+ 1087  cd Modulo0202b
+ 1088  code .
+ 1089  yarn add eslint-plugin-standard -D
+ 1090  yarn add eslint-config-standard
+ 1091  yarn add express
+ 1092  yarn add prettier -D
+ 1093  npx standard --fix
+ 1094  cd ..
+ 1095  ls
+ 1096  cd ./../
+ 1097  cd ..
+ 1098  ls
+ 1099  cd TestePDF
+ 1100  code .
+ 1101  yarn add prettier eslint eslint-config-standard -D
+ 1102  yarn remove eslin
+ 1103  yarn remove eslint 
+ 1104  yarn add prettier eslint eslint-config-standard -D
+ 1105  yarn add eslint-plugin-node eslint-config-prettier eslint-plugin-promise eslint-plugin-standard nodemon eslint-plugin-import -D
+ 1106  /npx standard --fix
+ 1107  npx standard --fix
+ 1108  yarn start
+ 1109  ls
+ 1110  cd Documents/DEV/react-pdf
+ 1111  ls
+ 1112  yarn example --fractals\n
+ 1113  xcode-select --install\n\n
+ 1114  npx standard --fix
+ 1115  ls
+ 1116  cd Do
+ 1117  cd Documents/DEV/react-pdf
+ 1118  ls
+ 1119  xcode-select --install\n\n
+ 1120  yarn install
+ 1121  nvm list
+ 1122  yarn -g nvm
+ 1123  brew install nvm
+ 1124  brew reinstall nvm\n
+ 1125  brew cleanup
+ 1126  brew update
+ 1127  nvm list
+ 1128  echo "source $(brew — prefix nvm)/nvm.sh" >> .bash_profile
+ 1129  echo "source $(brew —prefix nvm)/nvm.sh" >> .bash_profile
+ 1130  nano ~/.zashrc
+ 1131  export NVM_DIR=~/.nvm\n  source $(brew --prefix nvm)/nvm.sh
+ 1132  nvm list
+ 1133  nvm ls
+ 1134  nvm -v
+ 1135  nvm -version
+ 1136  nvm --version
+ 1137  nvm update
+ 1138  nvm ls-remote
+ 1139  nvm -version
+ 1140  nvm ls
+ 1141  nvm uninstall *
+ 1142  nvm uninstall
+ 1143  nvm uninstall all
+ 1144  nvm ls
+ 1145  nvm uninstall carbon
+ 1146  nvm uninstall boron
+ 1147  nvm ls
+ 1148  nvm uninstall lts/boron
+ 1149  nvm uninstall 4.9.1
+ 1150  nvm uninstall v4.9.1
+ 1151  nvm uninstall lts/*
+ 1152  nvm uninstall v4.9.1
+ 1153  nvm list
+ 1154  cd ..
+ 1155  ls
+ 1156  cd ..
+ 1157  ls
+ 1158  cd ..
+ 1159  ls
+ 1160  code GoStack0204
+ 1161  cd ..
+ 1162  ls
+ 1163  code TestePDF
+ 1164  docker ps -a
+ 1165  yarn start
+ 1166  yarn add exoress
+ 1167  yarn start
+ 1168  npm -v
+ 1169  cd ..
+ 1170  mkdir sis-pdf
+ 1171  cd sis-pdf
+ 1172  ls
+ 1173  code .
+ 1174  yarn init
+ 1175  yarn add eslint-plugin-node eslint-config-prettier eslint-plugin-promise eslint-plugin-standard nodemon eslint-plugin-import -D
+ 1176  yarn add exoress
+ 1177  yarn add express
+ 1178  yarn update
+ 1179  yarn update eslint
+ 1180  yarn update eslint@latest
+ 1181  yarn add eslint@latest
+ 1182  yarn add nodemon -d
+ 1183  yarn start
+ 1184  git push
+ 1185  yarn add @react-pdf/renderer\n
+ 1186  eslint --init
+ 1187  yarn start
+ 1188  ls
+ 1189  cd ..
+ 1190  ls
+ 1191  git clone https://github.com/michaeldzjap/react-pdf-sample.git
+ 1192  code react-pdf-sample
+ 1193  npm install
+ 1194  npm audit fix --force
+ 1195  npm run dev
+ 1196  npm install
+ 1197  npn run dev
+ 1198  npm run dev
+ 1199  npm run watch
+ 1200  cd dist
+ 1201  ls
+ 1202  npm run watch
+ 1203  yarn install eslint-config-standard -D
+ 1204  yarn add eslint-config-standard -D
+ 1205  yarn add eslint-config-standard@latest -D
+ 1206  npm -v
+ 1207  npm -l
+ 1208  npm -g update
+ 1209  npm -v
+ 1210  npm -l
+ 1211  npm ls
+ 1212  ls
+ 1213  cd Documents
+ 1214  cd DEV
+ 1215  ls
+ 1216  cd sis-pdf
+ 1217  npm ls
+ 1218  npm -v
+ 1219  npm -g update
+ 1220  npm update
+ 1221  node -v
+ 1222  /Users/lincoln/Downloads/ffmpeg-4.2.1-macos64-static/bin/ffmpeg ; exit;
+ 1223  pwd
+ 1224  cd Downloads/ffmpeg-4.2.1-macos64-static/bin
+ 1225  ls
+ 1226  ffmeg -y -i "https://videos.sproutvideo.com/embed/7c9ad9bc1b11eeccf4/88757a2204ed9cce\?signature\=%2BJVXqgjGu3mbmpI6WueputRiYe8%3D\&expires\=1569155526\&type\=hd" "output.mp4"
+ 1227  ffmpeg -y -i "https://videos.sproutvideo.com/embed/7c9ad9bc1b11eeccf4/88757a2204ed9cce\?signature\=%2BJVXqgjGu3mbmpI6WueputRiYe8%3D\&expires\=1569155526\&type\=hd" "output.mp4"
+ 1228  ls
+ 1229  ffmpeg -y -i "https://videos.sproutvideo.com/embed/7c9ad9bc1b11eeccf4/88757a2204ed9cce\?signature\=%2BJVXqgjGu3mbmpI6WueputRiYe8%3D\&expires\=1569155526\&type\=hd" "output.mp4"
+ 1230  ./ffmpeg -y -i "https://videos.sproutvideo.com/embed/7c9ad9bc1b11eeccf4/88757a2204ed9cce\?signature\=%2BJVXqgjGu3mbmpI6WueputRiYe8%3D\&expires\=1569155526\&type\=hd" "output.mp4"
+ 1231  easy_install -U livestreamer
+ 1232  pwd
+ 1233  sudo easy_install -U livestreamer
+ 1234  su
+ 1235  easy_install -U livestreamer
+ 1236  su
+ 1237  sudo su
+ 1238  ls
+ 1239  cd Documents
+ 1240  ls
+ 1241  cd DEV
+ 1242  ls
+ 1243  npm install -g @adonisjs/cli
+ 1244  adonis
+ 1245  adonis new -h
+ 1246  adonies new adonesjs-project
+ 1247  adonies new adonesjs-project --api-only
+ 1248  adonis new adonesjs-project --api-only
+ 1249  cd adonesjs-project
+ 1250  adonis serve --dev
+ 1251  cd Documents
+ 1252  cd DEV/adonesjs-project/
+ 1253  code .
+ 1254  npm install -D eslint
+ 1255  npx eslint --init
+ 1256  npm -i --save pg
+ 1257  ls
+ 1258  npm i --save pg
+ 1259  adonis migration:run
+ 1260  adonis serve --dev
+ 1261  adonis server --dev
+ 1262  ls
+ 1263  ping 8.8.8.8
+ 1264  ifcofnig
+ 1265  ifconfig
+ 1266  ping 8.8.8.8
+ 1267  pdwq
+ 1268  pdw
+ 1269  pwd
+ 1270  adonis make:controller User
+ 1271  adonis route:list
+ 1272  adonis server --dev
+ 1273  adonis serve --dev
+ 1274  adonis make:controller Session
+ 1275  adonis serve --dev
+ 1276  adonis route:list
+ 1277  adonis make:controller ForgotPasswordController
+ 1278  adonis migration:rollback
+ 1279  adonis migration:run
+ 1280  adonis serve --dev
+ 1281  node -v
+ 1282  dotnet
+ 1283  dotnet --info
+ 1284  > adonis install @adonisjs/mail
+ 1285  adonis install @adonisjs/mail
+ 1286  adonis serve --dev
+ 1287  > adonis make:view hello-world\n
+ 1288  adonis make:view hello-worl
+ 1289  adonis make:view forgot_passwords
+ 1290  adonis serve --dev
+ 1291  cd ..
+ 1292  ls
+ 1293  git clone https://github.com/Rocketseat/bootcamp-nodejs-desafio-04.git
+ 1294  ls
+ 1295  cd bootcamp-nodejs-desafio-04
+ 1296  code .
+ 1297  adonis serve --dev
+ 1298  npm
+ 1299  npm restore
+ 1300  npm restart
+ 1301  npm update
+ 1302  npm install restore
+ 1303  npm audit fix --force
+ 1304  adonis serve --dev
+ 1305  cd ..
+ 1306  ls
+ 1307  cd 
+ 1308  cd ..
+ 1309  cd lincoln
+ 1310  cd Downloads
+ 1311  cd bootcamp-nodejs-modulo4-master
+ 1312  code .
+ 1313  npm install restore
+ 1314  adonis serve --dev
+ 1315  npm audit fix --force
+ 1316  npm update
+ 1317  adonis serve --dev
+ 1318  cd ..
+ 1319  ls
+ 1320  clear
+ 1321  cd adonisjs-project-master
+ 1322  code .
+ 1323  npm install
+ 1324  adonis serve --dev
+ 1325  ls
+ 1326  cd ..
+ 1327  ls
+ 1328  cd GoStack0203
+ 1329  ls
+ 1330  code .
+ 1331  yarn start
+ 1332  adonis install
+ 1333  adonis instal
+ 1334  adonis install
+ 1335  adonis make:view welcome
+ 1336  adls
+ 1337  cd ..
+ 1338  ls
+ 1339  cd adonesjs-project
+ 1340  adonis make:view welcome
+ 1341  adonis serve --dev
+ 1342  ls
+ 1343  cd ..
+ 1344  ls
+ 1345  cd adonesjs-project
+ 1346  code .
+ 1347  adonis serve --dev
+ 1348  lsof -i :3333
+ 1349  adonis serve --dev
+ 1350  lsof -i :3333
+ 1351  kill 20079
+ 1352  npm -i moment
+ 1353  npm install moment
+ 1354  npm install audir fix
+ 1355  cat /Users/lincoln/.npm/_logs/2019-10-05T19_17_45_181Z-debug.log
+ 1356  npm install audir@latest
+ 1357  npm update
+ 1358  npm audit fix --force
+ 1359  npm install
+ 1360  npm install moment
+ 1361  adonis serve --dev
+ 1362  npm install
+ 1363  adonis serve --dev
+ 1364  npm audit fix --force
+ 1365  adonis serve --dev
+ 1366  npm audit fix
+ 1367  adonis serve --dev
+ 1368  npm audit fix --force
+ 1369  npm i -g @adonisjs/cli
+ 1370  adonis serve --dev
+ 1371  npm i -g @adonisjs/cli@latest
+ 1372  npm audit fix --force
+ 1373  npm update
+ 1374  npm install
+ 1375  adonis serve --dev
+ 1376  npm r -g @adonisjs/cli@latest
+ 1377  npm u -g @adonisjs/cli@latest
+ 1378  npm help
+ 1379  npm uninstall -g @adonisjs/cli@latest
+ 1380  npm uninstall @adonisjs/cli
+ 1381  adonis serve --dev
+ 1382  npm install
+ 1383  adonis serve --dev
+ 1384  npm i @adonisjs/ace\n
+ 1385  adonis serve --dev
+ 1386  npm r -g @adonisjs/cli@latest
+ 1387  npm i @adonisjs/cli\n
+ 1388  adonis serve --dev
+ 1389  npm update
+ 1390  npm install
+ 1391  npm audit fix
+ 1392  adonis serve --dev
+ 1393  npm audit fix —force
+ 1394  npm audit fix --force
+ 1395  adonis serve --dev
+ 1396  npm install
+ 1397  adonis serve --dev
+ 1398  npm install @adonisjs/ace\n
+ 1399  adonis serve --dev
+ 1400  npm i -g @adonisjs/cli@latest
+ 1401  adonis serve --dev
+ 1402  reboot
+ 1403  sudo reboot
+ 1404  adonis serve --dev
+ 1405  npm update
+ 1406  npm install
+ 1407  npm install @adonisjs/fold
+ 1408  npm update  @adonisjs/fold
+ 1409  npm update
+ 1410  npm install
+ 1411  npm update  @adonisjs/fold@latest
+ 1412  npm install  @adonisjs/fold@latest
+ 1413  npm list
+ 1414  adonis serve --dev
+ 1415  npm audit fix --force
+ 1416  adonis serve --dev
+ 1417  cd ..
+ 1418  ls
+ 1419  cd bootcamp-nodejs-desafio-04
+ 1420  adonis serve --dev
+ 1421  cd  ..
+ 1422  cd adonesjs-project
+ 1423  adonis serve --dev
+ 1424  npm install
+ 1425  adonis serve --dev
+ 1426  npm install
+ 1427  adonis serve --dev
+ 1428  yarn
+ 1429  adonis serve --dev
+ 1430  yarn update
+ 1431  adonis serve --dev
+ 1432  npm install @adonisjs/ace
+ 1433  adonis serve --dev
+ 1434  npn install
+ 1435  npm install
+ 1436  adonis serve --dev
+ 1437  npm install @adonisjs/ignitor
+ 1438  adonis serve --dev
+ 1439  npm install @adonisjs/fold
+ 1440  adonis serve --dev
+ 1441  npm install @adonisjs/cli
+ 1442  adonis serve --dev
+ 1443  npm audit fix --force
+ 1444  adonis serve --dev
+ 1445  npm install -g  @adonisjs/cli
+ 1446  npm update -g  @adonisjs/cli
+ 1447  adonis serve --dev
+ 1448  npm audit fix --force
+ 1449  adonis serve --dev
+ 1450  npm audit fix --force
+ 1451  npm install -g  @adonisjs/cli
+ 1452  adonis serve --dev
+ 1453  npm audit fix --force
+ 1454  adonis serve --dev
+ 1455  npm install
+ 1456  adonis serve --dev
+ 1457  yarn global remove adonis-cli
+ 1458  npm uninstall -g @adonisjs/cli@latest
+ 1459  npm uninstall -g @adonisjs/cli
+ 1460  npm list -g
+ 1461  npm uninstall -g @adonisjs/cli
+ 1462  npm install -g @adonisjs/cli
+ 1463  npm uninstall -g @adonisjs/cli
+ 1464  yarn global add adonis-cli
+ 1465  yarn
+ 1466  yarn update
+ 1467  yarn upgrade
+ 1468  adonis serve --dev
+ 1469  yarn start
+ 1470  adonis -h
+ 1471  yarn audit fix
+ 1472  yarn audit fix --force
+ 1473  adonis serve --dev
+ 1474  yarn start -dev
+ 1475  yarn add Error: Cannot find module '@adonisjs/framework/providers/AppProvider'
+ 1476  yarn add '@adonisjs/framework'
+ 1477  yarn start -dev
+ 1478  yarn add '@adonisjs/auth'
+ 1479  yarn start -dev
+ 1480  yarn add '@adonisjs/bodyparser'
+ 1481  yarn start -dev
+ 1482  yarn add '@adonisjs/cors'
+ 1483  yarn start -dev
+ 1484  yarn add '@adonisjs/lucid'
+ 1485  yarn start -dev
+ 1486  adonis serve --dev
+ 1487  npm install
+ 1488  adonis serve --dev
+ 1489  npm install
+ 1490  adonis serve --dev
+ 1491  npm start
+ 1492  git remote set-url --add --push origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1493  git remote set-url --add --push origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git --force
+ 1494  git push --force --set-upstream origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1495  history >> historico.txt
+ 1496  git remote add  origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1497  git remote add origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git --force
+ 1498  git push
+ 1499  git log
+ 1500  git remote add origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git --force
+ 1501  git remote add origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1502  git push
+ 1503  git push --force --set-upstream origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1504  git push --set-upstream origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1505  git push --set-upstream origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git --force
+ 1506  git push --force --set-upstream origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1507  git push --force --set-upstream origin
+ 1508  git push --force --set-upstream origin master
+ 1509  git push --force --set-upstream origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1510  git remote add https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1511  git remote add -m https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1512  git remote add master https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1513  git push --force --set-upstream origin master
+ 1514  git remote -v
+ 1515  git push --force --set-upstream master
+ 1516  git remote -v
+ 1517  git remote -remove origin
+ 1518  git remote remove origin
+ 1519  git remote -v
+ 1520  git remote remove master
+ 1521  git remote -v
+ 1522  git remote add origin https://github.com/lincolnlopes/bootcamp-nodejs-mod04.git
+ 1523  git remote -v
+ 1524  git push -u origin master\n
+ 1525  git push -u origin master --force\n
+ 1526  git push -u origin master\n
+ 1527  git push --set-upstream origin master --force
+ 1528  git push --set-upstream origin master
+ 1529  git push --set-upstream origin master --force
+ 1530  cd ..
+ 1531  git push --set-upstream origin master --force
+ 1532  git push --set-upstream origin master
+ 1533  git push -u origin master\n
+ 1534  git push
+ 1535  git push --force
+ 1536  git pull --force
+ 1537  git push --set-upstream origin master
+ 1538  git push --set-upstream origin master --force
+ 1539  git push -u origin master\n
+ 1540  git init
+ 1541  git push -u origin master\n
+ 1542  git push -u origin master --force\n
+ 1543  git push --set-upstream origin master --force
+ 1544  git push -u origin master\n
+ 1545  git init
+ 1546  git push -u origin master\n
+ 1547  git push --force --set-upstream origin master
+ 1548  git push --force --set-upstream origin
+ 1549  git push --force --set-upstream origin master
+ 1550  ls
+ 1551  cd bootcamp-nodejs-desafio-04
+ 1552  git push --force --set-upstream origin master
+ 1553  cd ..
+ 1554  ls
+ 1555  cd ..
+ 1556  ls
+ 1557  cd DEV
+ 1558  cd adonesjs-project
+ 1559  git push --force --set-upstream origin master
+ 1560  adonis serve --dev
+ 1561  npm start
+ 1562  ls
+ 1563  adonis make:model File -m -c
+ 1564  npm install -g @adonisjs/cli
+ 1565  adonis make:model File -m -c
+ 1566  npm install @adonisjs/cli
+ 1567  adonis make:model File -m -c
+ 1568  lsof -i :3333
+ 1569  kill 489
+ 1570  adonis make:model File -m -c
+ 1571  ls
+ 1572  adonis make:model File -m -c
+ 1573  npm start
+ 1574  adonis make:model File -m -c
+ 1575  npm install @adonisjs/ace
+ 1576  adonis make:model File -m -c
+ 1577  adonis migration:run
+ 1578  lsof -i :3333
+ 1579  adonis serve --dev
+ 1580  adonis make:model Project -m -c
+ 1581  adonis make:model Task -m -c
+ 1582  adonis migration:run
+ 1583  git push
+ 1584  adonis route:list
+ 1585  adonis serve --dev
+ 1586  adonis route:list
+ 1587  adonis migration:rollback
+ 1588  adonis migration:run
+ 1589  adonis route:list
+ 1590  adonis migration:rollback
+ 1591  adonis migration:run
+ 1592  adonis install @adonisjs/validator
+ 1593  adonis make:validator User
+ 1594  adonis make:ehandler
+ 1595  adonis make:validator Session
+ 1596  adonis make:validator ForgotPassword
+ 1597  adonis make:validator ResetPassword
+ 1598  adonis make:validator Project
+ 1599  adonis make:validator Task
+ 1600  clear
+ 1601  adonis install @adonisjs/antl
+ 1602  adonis make:hook Task
+ 1603  adonis serve --dev
+ 1604  npm install @adonisjs/redis
+ 1605  npm audit fix
+ 1606  npm install @adonisjs/redis
+ 1607  npm install @adonisjs/redis@latest
+ 1608  npm audit
+ 1609  npm install @adonisjs/redis@latest
+ 1610  npm install @adonisjs/fold
+ 1611  clear
+ 1612  adonis serve --dev
+ 1613  adonis install @adonisjs/redis
+ 1614  npm install adonis-kue
+ 1615  adonis serve --dev
+ 1616  adonis kue:listen
+ 1617  brew install blueutil
+ 1618  brew update
+ 1619  brew cask install rdm\n
+ 1620  brew cask install another-redis-desktop-manager
+ 1621  brew cask update another-redis-desktop-manager
+ 1622  brew cask upgrade another-redis-desktop-manager
+ 1623  adonis
+ 1624  adonis kue:listen
+ 1625  npm install @sentry/node@5.7.0
+ 1626  adonis kue:listen
+ 1627  adonis serve --dev
+ 1628  npm install @sentry/node@5.7.0
+ 1629  npm install -g npm
+ 1630  npm install @sentry/node@5.7.0
+ 1631  npm audit fix
+ 1632  npm install @sentry/node@5.7.0
+ 1633  adonis serve --dev
+ 1634  adonis install @adonisjs/sentry
+ 1635  npm i --save @adonisjs/sentry
+ 1636  npm install @sentry@latest
+ 1637  adonis install adonis-sentry\n
+ 1638  adonis serve --dev
+ 1639  npm remove @sentry/node@5.7.0
+ 1640  adonis install adonis-sentry\n
+ 1641  adonis serve --dev
+ 1642  adonis make:model UserAddress -m -c
+ 1643  adonis serve --dev
+ 1644  cd ..
+ 1645  mkdir gonode-mod05
+ 1646  cd gonode-mod05
+ 1647  cd ..
+ 1648  rm gonode-mod05
+ 1649  rm -Rf gonode-mod05
+ 1650  ls
+ 1651  git clone https://github.com/lincolnlopes/gonode-mod05.git
+ 1652  cd gonode-mod05
+ 1653  ls
+ 1654  code .
+ 1655  cd gonode-mod05
+ 1656  code .
+ 1657  ls
+ 1658  cd ..
+ 1659  ls
+ 1660  cd gonode-mod05
+ 1661  code .
+ 1662  yarn init
+ 1663  yarn add express
+ 1664  yarn add jest -D
+ 1665  yarn jest --init
+ 1666  yarn test
+ 1667  yarn add sequelize 
+ 1668  yarn add sequelize-cli -D
+ 1669  yarn add pg
+ 1670  yarn add sqlite3 -D
+ 1671  yarn add nodemon -d
+ 1672  yarn sequelize init
+ 1673  yar add dotenv
+ 1674  yarn add dotenv
+ 1675  yarn dev
+ 1676  yarn sequelize migration:create --name=create-users
+ 1677  yarn sequelize db:migrate
+ 1678  yarn dev
+ 1679  yarn add supertest -D
+ 1680  ping 8.8.8.8
+ 1681  clear
+ 1682  ping 8.8.8.8
+ 1683  yarn test
+ 1684  yarn add bcryptjs
+ 1685  yarn test
+ 1686  clear
+ 1687  yarn test
+ 1688  clear
+ 1689  git push
+ 1690  yarn test
+ 1691  yarn add jsonwebtoken
+ 1692  brew upgrade yarn
+ 1693  brew upgrade
+ 1694  chmod go-w '/usr/local/share'
+ 1695  echo 'export PATH="/usr/local/opt/sqlite/bin:$PATH"' >> ~/.zshrc
+ 1696  echo 'export PATH="/usr/local/opt/mysql-client/bin:$PATH"' >> ~/.zshrc
+ 1697  nano ~/.zashrc
+ 1698  tw ~/.zashrc
+ 1699  alias tw='open -a /Applications/TextWrangler.app'\n
+ 1700  tw ~/.zashrc
+ 1701  sudo su
+ 1702  tw ~/.zashrc
+ 1703  echo 'export PATH="/usr/local/opt/sqlite/bin:$PATH"' >> ~/.zshrc
+ 1704  yarn test
+ 1705  ls
+ 1706  cd ..
+ 1707  ls
+ 1708  mkdir wpchat
+ 1709  cd wpchat/
+ 1710  dotnet new console
+ 1711  ls
+ 1712  code .
+ 1713  dotnet add package whatsapp*
+ 1714  dotnet add package *whatsapp*
+ 1715  dotnet package add  *whatsapp*
+ 1716  dotnet add package *whatsapp*
+ 1717  dotnet add package whatsapp
+ 1718  dotnet run
+ 1719  cd ..
+ 1720  ls
+ 1721  cd ..
+ 1722  mkdir ENGECRED
+ 1723  cd ENGECRED
+ 1724  ls
+ 1725  git clone https://github.com/lincolnlopes/Engecred.Fomento.git
+ 1726  cd Engecred.Fomento
+ 1727  ls
+ 1728  code .
+ 1729  code ../../ENGECRED/Engecred.Fomento
+ 1730  dotnet watch run
+ 1731  cd Fomento.Api
+ 1732  dotnet watch run
+ 1733  brew upgrade yarn
+ 1734  sudo /etc/init.d/bluetooth restart\n
+ 1735  bluetoothaudiod restart
+ 1736  blueutil --help
+ 1737  blueutil restart
+ 1738  blueutil power
+ 1739  blueutil --power
+ 1740  brew install blueutil\n
+ 1741  blueutil -p 0 && sleep 1 && blueutil -p 1\n
+ 1742  launchctl stop com.apple.blued
+ 1743  launchctl start com.apple.blued
+ 1744  sudo kextunload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport\n
+ 1745  sudo kextload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport\n
+ 1746  launchctl unload /System/Library/LaunchDaemons/com.apple.blued.plist
+ 1747  launchctl load /System/Library/LaunchDaemons/com.apple.blued.plist
+ 1748  launchctl load /System/Library/LaunchDaemons/com.apple.bluetoothd.plist
+ 1749  /Library/Preferences/com.apple.Bluetooth ControllerPowerState -int 1\n
+ 1750  Library/Preferences/com.apple.B
+ 1751  sudo pkill bluetoothd\n
+ 1752  sudo launchctl start com.apple.bluetoothd\n
+ 1753  blueutil -p 1\n
+ 1754  ls\n
+ 1755  cd Documents/ENGECRED/Engecred.Fomento
+ 1756  ls
+ 1757  git commit -m "Correções"
+ 1758  git status
+ 1759  git revert
+ 1760  git revert HEAD~1
+ 1761  git revert HEAD~1 hard
+ 1762  git commit -m "Correções"
+ 1763  dotnet watch run
+ 1764  cd Fomento.Api
+ 1765  dotnet watch run
+ 1766  cd ../Fomento.Domain
+ 1767  ls
+ 1768  dotnet add package Microsoft.EntityFrameworkCore.Relational 
+ 1769  dotnet watch run
+ 1770  cd ../Fomento.Api
+ 1771  dotnet watch run
+ 1772  cd ../Fomento.Domain
+ 1773  dotnet add package Microsoft.EntityFrameworkCore
+ 1774  cd ../Fomento.Api
+ 1775  dotnet watch run
+ 1776  cd ../Fomento.Domain
+ 1777  dotnet add package Microsoft.AspNetCore
+ 1778  cd ../Fomento.Api
+ 1779  dotnet watch run
+ 1780  cd ../Fomento.Domain
+ 1781  dotnet add package Microsoft.AspNetCore.Mvc
+ 1782  cd ../Fomento.Api
+ 1783  dotnet watch run
+ 1784  cd ../../
+ 1785  cd DEV/Fomento
+ 1786  git pull
+ 1787  git pull --force
+ 1788  brew update
+ 1789  git pull --force
+ 1790  brew update git
+ 1791  brew install git
+ 1792  echo 'export PATH="/usr/local/opt/gettext/bin:$PATH"' >> ~/.zshrc
+ 1793  export LDFLAGS="-L/usr/local/opt/gettext/lib"
+ 1794  export CPPFLAGS="-I/usr/local/opt/gettext/include"
+ 1795  cd ../../DEV/Fomento
+ 1796  ls
+ 1797  git pull --force
+ 1798  brew install git
+ 1799  git link git
+ 1800  brew link git
+ 1801  rm '/usr/local/share/man/man1/git-add.1'\n
+ 1802  cd /usr/local/share/man/man1/\n
+ 1803  ls
+ 1804  rm git-add.1
+ 1805  brew link git
+ 1806  rm git-am.1
+ 1807  brew link --overwrite git
+ 1808  cd ../../DEV/Fomento
+ 1809  git pull
+ 1810  git@lincolngyn pull
+ 1811  @git pull
+ 1812  git pull
+ 1813  code .
+ 1814  code ..
+ 1815  code ../../DEV/Fomento
+ 1816  cd ../../DEV/Fomento
+ 1817  cd ../DEV/Fomento
+ 1818  code .
+ 1819  brew update *
+ 1820  brew update
+ 1821  docker ps -a
+ 1822  ls
+ 1823  cd Fomento
+ 1824  ls
+ 1825  cd Pages/Data
+ 1826  docker ps -a
+ 1827  dotnet ef database update
+ 1828  docker run -d --name ethereum-node \\n -v $HOME/.ethereum:/root \\n -p 8545:8545 -p 30303:30303 \\n ethereum/client-go:v1.8.12 --testnet --fast --cache=512
+ 1829  docker ps -a
+ 1830  docker logs -f ethereum-node
+ 1831  \n -v $HOME/.ethereum:/root \\n -p 8545:8545 -p 30303:30303 \\n ethereum/client-go:v1.8.12 --testnet --fast --cache=512
+ 1832  docker exec -ti ethereum-node geth attach
+ 1833  ls
+ 1834  cd ..
+ 1835  ls
+ 1836  git clone https://github.com/vertigobr/ethereum.git
+ 1837  ls
+ 1838  cd ethereum
+ 1839  ls
+ 1840  ./genesis.sh
+ 1841  ./bootnode.sh
+ 1842  ./runnode.sh
+ 1843  ./runminer.sh
+ 1844  ./showpeers.sh
+ 1845  docker logs ethereum-bootnode
+ 1846  /Applications/Ethereum\ Wallet.app/Contents/MacOS/Ethereum\ Wallet --help
+ 1847  RPC_PORT=8545 ./runminer.sh miner1
+ 1848  --rpc --rpcaddr=0.0.0.0 --rpcapi=”db,eth,net,web3,personal” \\n--rpccorsdomain “*”
+ 1849  -p $RPC_PORT:8545
+ 1850  /Applications/Ethereum\ Wallet.app/Contents/MacOS/Ethereum\ Wallet \\n--rpc http://localhost:8545
+ 1851  ls
+ 1852  cd ..
+ 1853  ls
+ 1854  cd ethereum
+ 1855  npm run console-dev
+ 1856  open http://localhost:3000
+ 1857  npm run up
+ 1858  docker exec -ti ethereum-node geth attach
+ 1859  docker exec -ti ethereum-node1 geth attach
+ 1860  docker logs -f ethereum-node
+ 1861  docker logs -f ethereum-node1
+ 1862  geth --ipcapi admin,eth,miner --rpcapi eth
+ 1863  /Applications/Ethereum\ Wallet.app/Contents/MacOS/Ethereum\ Wallet \\n--rpc http://localhost:8545
+ 1864  cd ../ethereum
+ 1865  npm run up
+ 1866  brew search node
+ 1867  node -v
+ 1868  npm -v
+ 1869  npm install
+ 1870  ls
+ 1871  npm install -g npm
+ 1872  npm install
+ 1873  ls
+ 1874  git pull
+ 1875  npm init
+ 1876  npm install
+ 1877  npm run up
+ 1878  netstats
+ 1879  docker ps -a
+ 1880  npm run up
+ 1881  ls
+ 1882  cd Documents/DEV/ethereum
+ 1883  npm run up
+ 1884  cat /Users/lincoln/.npm/_logs/2019-10-05T19_17_45_181Z-debug.log
+ 1885  cat /Users/lincoln/.npm/_logs/2019-11-03T21_44_54_517Z-debug.log
+ 1886  docker-compose up -d
+ 1887  open http://$\(docker-machine ip default):8545\n
+ 1888  docker-compose -f docker-compose-standalone.yml up -d\n
+ 1889  ls
+ 1890  cd ..
+ 1891  git clone https://github.com/cubedro/eth-netstats\n
+ 1892  cd eth-netstats
+ 1893  npm install
+ 1894  ls
+ 1895  pwd
+ 1896  npm install -g grunt-cli
+ 1897  grunt
+ 1898  npm start
+ 1899  /Applications/Ethereum\ Wallet.app/Contents/MacOS/Ethereum\ Wallet \\n--rpc http://localhost:8545
+ 1900  grunt init
+ 1901  ls
+ 1902  more Gruntfile.js
+ 1903  morls
+ 1904  ls
+ 1905  more README.md
+ 1906  ls
+ 1907  more app.js
+ 1908  grunt connect\n
+ 1909  ls
+ 1910  cd ..
+ 1911  ls
+ 1912  cd eth-netstats
+ 1913  ls
+ 1914  npm install grunt-contrib-connect --save-dev\n
+ 1915  grunt connect\n
+ 1916  npm install grunt-contrib-connect --save-dev\n
+ 1917  npm audit fix
+ 1918  grunt connect\n
+ 1919  npm start
+ 1920  docker ps -a
+ 1921  ls
+ 1922  pwd
+ 1923  cd ../eth-netstats
+ 1924  code .
+ 1925  ls
+ 1926  cd ..
+ 1927  ls
+ 1928  git clone https://github.com/cubedro/eth-net-intelligence-api
+ 1929  cd eth-net-intelligence-api
+ 1930  npm install
+ 1931  npm install -g pm2
+ 1932  ls
+ 1933  cd ..
+ 1934  ls
+ 1935  cd eth-net-intelligence-api
+ 1936  ls
+ 1937  code .
+ 1938  pm2 start
+ 1939  ls
+ 1940  pm2 start
+ 1941  pm2 start app.js
+ 1942  set WS_SECRET=mysecret
+ 1943  npm start
+ 1944  set WS_SECRET=mysecret&npm start
+ 1945  set WS_SECRET=mysecret&&npm start
+ 1946  npm start
+ 1947  WS_SECRET=mysecret npm start
+ 1948  pm2 start app.js
+ 1949  pm2 start app.js -f
+ 1950  kill 26997
+ 1951  kill 27979
+ 1952  pm2 start app.js -f
+ 1953  pm2 start app.js
+ 1954  kill 28289
+ 1955  pm2 start app.js
+ 1956  pm2 stop app.js
+ 1957  pm2 start app.js
+ 1958  pm2 stop
+ 1959  pm2 stop all
+ 1960  pm2 -h
+ 1961  pn2 delete all
+ 1962  pm2 delete all
+ 1963  WS_SECRET=mysecret npm start
+ 1964  vmmon
+ 1965  openssl req -new -x509 -newkey rsa:2048 -keyout MOK.priv -outform DER -out MOK.der -nodes -days 36500 -subj "/CN=VMware/"
+ 1966  /usr/src/linux-headers-`uname -r`/scripts/sign-file sha256 ./MOK.priv ./MOK.der $(modinfo -n vmmon)
+ 1967  ls
+ 1968  rm MOK.*
+ 1969  vmware-modconfig --console --install-all
+ 1970  sudo kextload /Applications/VMware\ Fusion.app/Contents/Library/kexts/vmmon.kext/
+ 1971  kextstat | grep vm
+ 1972  sudo kextutil /Applications/VMware\ Fusion.app/Contents/Library/kexts/vmmon.kext/
+ 1973  WS_SECRET=mysecret npm start
+ 1974  ls
+ 1975  cd Documents/DEV/eth-netstats
+ 1976  WS_SECRET=mysecret npm start
+ 1977  cd ../eth-net-intelligence-api
+ 1978  pm2 start app.js
+ 1979  ls
+ 1980  pm2 remove all
+ 1981  pm2 all remove
+ 1982  pm2 -h
+ 1983  cd /Users/lincoln/Documents
+ 1984  history >> historico20191104.txt
+ 1985  pm2 delete all
+ 1986  cd DEV/eth-net-intelligence-api
+ 1987  ls
+ 1988  cd ..
+ 1989  cd eth-netstats
+ 1990  npm start
+ 1991  pm2 start app.js
+ 1992  WS_SECRET=mysecret npm start
+ 1993  pm2 delete all
+ 1994  pm2 start app.js
+ 1995  WS_SECRET=mysecret npm start
+ 1996  grunt connect\n
+ 1997  docker-compose up -d
+ 1998  geth --ipcapi admin,eth,miner --rpcapi eth
+ 1999  cd ..
+ 2000  ls
+ 2001  cd ethereum
+ 2002  .bootnode
+ 2003  ./runnode.sh
+ 2004  ls
+ 2005  cd ..
+ 2006  ls
+ 2007  ./runnode.sh
+ 2008  RPC_PORT=8545 ./runminer.sh miner1
+ 2009  --rpc --rpcaddr=0.0.0.0 --rpcapi=”db,eth,net,web3,personal” \\n--rpccorsdomain “*”
+ 2010  ocker exec -ti ethereum-node geth attach
+ 2011  docker exec -ti ethereum-node geth attach
+ 2012  docker exec -ti ethereum-node1 geth attach
+ 2013  geth --ipcapi admin,eth,miner --rpcapi eth
+ 2014  grunt connect
+ 2015  grunt
+ 2016  grunt -h
+ 2017  docker-compose -f docker-compose-standalone.yml up -d\n
+ 2018  WS_SECRET=mysecret npm start
+ 2019  docker ps -a
+ 2020  ./showpeers.sh
+ 2021  WS_SECRET=mysecret npm start
+ 2022  --rpc --rpcaddr=0.0.0.0 --rpcapi=”db,eth,net,web3,personal” \\n--rpccorsdomain “*”
+ 2023  WS_SECRET=mysecret npm start
+ 2024  pm2 delete all
+ 2025  WS_SECRET=mysecret npm start
+ 2026  pm2 start app.js
+ 2027  ld
+ 2028  ls
+ 2029  cd eth-net-intelligence-api
+ 2030  ls
+ 2031  cat README.md
+ 2032  ./getbootnodeurl.sh
+ 2033  grunt connect
+ 2034  grunt connect ethereum-node1
+ 2035  ./showpeers.sh
+ 2036  npm install grunt-contrib-connect --save-dev\n
+ 2037  WS_SECRET=mysecret23 npm start
+ 2038  geth --ipcapi admin,eth,miner --rpcapi eth
+ 2039  cd ..
+ 2040  cd ethereum
+ 2041  npm run console-dev
+ 2042  npm run up
+ 2043  grunt connect\n
+ 2044  grunt connect\ethereum-node1
+ 2045  geth --networkid 4224  --datadir "E:\privateChain\GethPrivateChain" --nodiscover --rpc --rpcport "8545" --port "30303" --rpccorsdomain "*" --nat "any" --rpcapi eth,web3,personal,net --unlock 0 --password password.sec
+ 2046  grunt
+ 2047  pm2 start app.json
+ 2048  cd ../eth-net-intelligence-api/
+ 2049  ls
+ 2050  pm2 start app.json
+ 2051  grunt connect\n
+ 2052  WS_SECRET=mysecret23 npm start
+ 2053  cd ../eth-netstats
+ 2054  WS_SECRET=mysecret23 npm start
+ 2055  pm2 start app.json
+ 2056  ./showpeers.sh
+ 2057  pm2 start app.json
+ 2058  WS_SECRET=mysecret npm start
+ 2059  pm2 start app.json
+ 2060  pm2 stop app.json
+ 2061  pm2 start app.json
+ 2062  WS_SECRET=mysecret npm start
+ 2063  ./showpeers.sh
+ 2064  ifconfig
+ 2065  ping 192.168.202.167
+ 2066  WS_SECRET=mysecret npm stop
+ 2067  WS_SECRET=mysecret npm start
+ 2068  ./showpeers.sh
+ 2069  cd ..
+ 2070  cd ethereum
+ 2071  ./bootnode.sh
+ 2072  cd eth-net-intelligence-api
+ 2073  pm2 start app.json
+ 2074  ls
+ 2075  pwd
+ 2076  cd ../eth-net-intelligence-api
+ 2077  pm2 start app.json
+ 2078  ssh lincoln@192.168.202.166
+ 2079  ssh lincoln@192.168.202.167
+ 2080  ls
+ 2081  exit
+ 2082  sudo spctl --master-disable
+ 2083  codesign --force --deep -sign - /Applications/CleanMyMac\ X.app 
+ 2084  codesign --force --deep -sign /Applications/CleanMyMac\ X.app 
+ 2085  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2086  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app
+ 2087  codesign --force --deep --sign /Applications/CleanMyMac\ X.app
+ 2088  sudo spctl --master-disable
+ 2089  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app
+ 2090  sudo codesign --force --deep --sign - /Applications/CleanMyMac\ X.app
+ 2091  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app
+ 2092  codesign --force --deep --sign - 
+ 2093  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2094  sudo spctl --master-disable
+ 2095  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2096  codesign --force --deep --sign -/Applications/CleanMyMac\ X.app 
+ 2097  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2098  codesign --help
+ 2099  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2100  sudo spctl --master-disable
+ 2101  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2102  sudo xattr -rd com.apple.quarantine /Applications/LockedApp.app
+ 2103  udo spctl --master-disable
+ 2104  sudo spctl --master-disable
+ 2105  codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2106  sudo codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2107  /Volumes/CleanMyMac\ X\ 4.5.0/Open\ Gatekeeper\ friendly ; exit;
+ 2108  sudo codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2109  /Volumes/CleanMyMac\ X\ 4.5.0/Open\ Gatekeeper\ friendly ; exit;
+ 2110  /tmp/tnt12516/mount/Extra/rhash ; exit;
+ 2111  sudo codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2112  codesign --force --deep --sign - 
+ 2113  sudo codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2114  sudo spctl --master-disable
+ 2115  xattr -d com.apple.quarantine 
+ 2116  /Volumes/CleanMyMac\ X\ 4.5.0/Open\ Gatekeeper\ friendly ; exit;
+ 2117  sudo codesign --force --deep --sign - /Applications/CleanMyMac\ X.app 
+ 2118  sudo codesign -fs – /Applications/CleanMyMac\ X.app/Contents/MacOS/CleanMyMac\ X –deep
+ 2119  sudo codesign -fs –
+ 2120  sudo codesign -fs – /Applications/CleanMyMac X.app/Contents/MacOS/CleanMyMac\ X –deep
+ 2121  codesign -f -s – –deep
+ 2122  codesign -f -s – –deep /Applications/CleanMyMac\ X.app/
+ 2123  codesign+%%sign+%++%%force+%%deep+/Applications/cleanMyMac\+X.app
+ 2124  codesign –sign – –force –deep /Applications/CleanMyMac\ X.app
+ 2125  codesign –-sign ––force -–deep /Applications/CleanMyMac\ X.app
+ 2126  codesign -sign – -force -–deep /Applications/CleanMyMac\ X.app
+ 2127  codesign -sign -force -–deep /Applications/CleanMyMac\ X.app
+ 2128  codesign -sign - -force -–deep /Applications/CleanMyMac\ X.app
+ 2129  xcode-select --install\n\n
+ 2130  codesign -sign - -force -–deep /Applications/CleanMyMac\ X.app
+ 2131  xcode-select --install\n\n
+ 2132  codesign -sign - -force -–deep /Applications/CleanMyMac\ X.app
+ 2133  sudo codesign -f -s – /Applications/CleanMyMac\ X.app/ – –force -–deep
+ 2134  sudo codesign -f -s – /Applications/CleanMyMac\ X.app/ – -–force -–deep
+ 2135  sudo codesign -f -s – /Applications/CleanMyMac\ X.app/ – –force -–deep
+ 2136  sudo codesign -f -s – /Applications/CleanMyMac\ X.app/ -–force -–deep
+ 2137  sudo codesign -f -s /Applications/CleanMyMac\ X.app/ - -–force -–deep
+ 2138  sudo codesign -f -s /Applications/CleanMyMac\ X.app/ -–force -–deep
+ 2139  sudo xattr -r -d com.apple.quarantine /Applications/CleanMyMac\ X.app
+ 2140  codesign -f -s – –deep /Applications/CleanMyMac\ X.app/
+ 2141  codesign -f -s – –deep /Applications/CleanMyMac\ X.app
+ 2142  codesign -f -s -–deep /Applications/CleanMyMac\ X.app
+ 2143  codesign -f -s - -–deep /Applications/CleanMyMac\ X.app
+ 2144  codesign -f -s - –deep /Applications/CleanMyMac\ X.app
+ 2145  codesign -f -s - –deep /pplications/CleanMyMac\ X.app
+ 2146  codesign –remove-signature / Applications / CleanMyMac \ X.appodesign -f -s - –deep /pplications/CleanMyMac\ X.app
+ 2147  codesign -remove-signature  /Applications/CleanMyMac\ X.app
+ 2148  codesign –remove-signature /Applications/CleanMyMac\ X.app
+ 2149  codesign -–remove-signature /Applications/CleanMyMac\ X.app
+ 2150  codesign -h
+ 2151  xattr -cr / Applications / CleanMyMac \ X.app
+ 2152  sudo xattr -cr / Applications / CleanMyMac \ X.appxattr -r -d com.apple.quarantine /Applications/CleanMyMac\ X.app
+ 2153  sudo xattr -cr /Applications/CleanMyMac \ X.appxattr -r -d com.apple.quarantine /Applications/CleanMyMac\ X.app
+ 2154  xattr -cr / Applications / CleanMyMac \ X.app
+ 2155  xattr -cr /Applications/CleanMyMac\X.app
+ 2156  xattr -cr /Applications/CleanMyMac\ X.app 
+ 2157  codesign -f -s – –deep /Applications/CleanMyMac\ X.app 
+ 2158  codesign -f -s – -deep /Applications/CleanMyMac\ X.app 
+ 2159  codesign -f -s – -deep /Applications/CleanMyMac\ X.app
+ 2160  csrutil disable
+ 2161  codesign -f -s – -deep /Applications/CleanMyMac\ X.app
+ 2162  codesign -f -s – –deep /Applications/CleanMyMac\ X.app 
+ 2163  codesign –sign – –force –deep /Applications/CleanMyMac\ X.app
+ 2164  codesign -sign – -force -deep /Applications/CleanMyMac\ X.app
+ 2165  sudo codesign -sign – -force -deep /Applications/CleanMyMac\ X.app
+ 2166  sudo codesign -sign – --force -deep /Applications/CleanMyMac\ X.app
+ 2167  sudo codesign -sign – -f -deep /Applications/CleanMyMac\ X.app
+ 2168  sudo codesign -sign – -force -deep /Applications/CleanMyMac\ X.app
+ 2169  sudo codesign -sign – -deep /Applications/CleanMyMac\ X.app
+ 2170  sudo codesign -sign - -force -deep /Applications/CleanMyMac\ X.app
+ 2171  sudo codesign -sign -force -deep /Applications/CleanMyMac\ X.app
+ 2172  sudo codesign -sign - ---force -deep /Applications/CleanMyMac\ X.app
+ 2173  sudo codesign -sign - --force -deep /Applications/CleanMyMac\ X.app
+ 2174  sudo codesign -sign - -force -deep /Applications/CleanMyMac\ X.app
+ 2175  sudo codesign -sign - -force - -deep /Applications/CleanMyMac\ X.app
+ 2176  sudo codesign -sign - -force --deep /Applications/CleanMyMac\ X.app
+ 2177  sudo codesign -s --deep --force /Applications/CleanMyMac\ X.app
+ 2178  sudo codesign -s - --deep --force /Applications/CleanMyMac\ X.app
+ 2179  sudo xattr -rd com.apple.quarantine /Applications/CleanMyMac\ X.app 
+ 2180  sudo codesign -s - --deep --force /Applications/CleanMyMac\ X.app
+ 2181  pwd
+ 2182  history >> historico20191112.txt
+ 2183  sudo spctl --master-disable
+ 2184  /Volumes/CleanMyMac\ X\ 4.5.0\ 1/Open\ Gatekeeper\ friendly ; exit;
+ 2185  sudo codesign -s - --deep --force /Applications/CleanMyMac\ X.app
+ 2186  sudo xattr -d com.apple.quarantine /Applications/CleanMyMac\ X.app 
+ 2187  sudo spctl --master-disable
+ 2188  sudo codesign -s - --deep --force /Applications/CleanMyMac\ X.app
+ 2189  sudo xattr -d com.apple.quarantine /Applications/CleanMyMac\ X.app 
+ 2190  sudo codesign -s - --deep --force /Applications/CleanMyMac\ X.app
+ 2191  sudo spctl --master-disable
+ 2192  sudo xattr -d com.apple.quarantine /Applications/CleanMyMac\ X.app 
+ 2193  cd ../DEV/gonode-mod05
+ 2194  ls
+ 2195  code .
+ 2196  yarn test
+ 2197  git log
+ 2198  yarn test
+ 2199  clear
+ 2200  yarn test
+ 2201  clear
+ 2202  yarn test
+ 2203  git push
+ 2204  yarn test
+ 2205  clear
+ 2206  yarn test
+ 2207  git log
+ 2208  yarn add factory-girl -D
+ 2209  yarn add faker -D
+ 2210  yarn test
+ 2211  ls
+ 2212  git status
+ 2213  git rm .env.test __tests__/database.sqlite
+ 2214  git rm - f .env.test __tests__/database.sqlite
+ 2215  git rm -f .env.test __tests__/database.sqlite
+ 2216  yarn test
+ 2217  yarn add nodemailer -D
+ 2218  yarn test
+ 2219  pm2 list
+ 2220  pm2 monit
+ 2221  node -v
+ 2222  npm -v
+ 2223  yarn -v
+ 2224  cd ..
+ 2225  mkdir goreact-base
+ 2226  cd goreact-base
+ 2227  code .
+ 2228  pwd
+ 2229  cd ls
+ 2230  ls
+ 2231  cd Documents
+ 2232  cd DEV
+ 2233  ls -la
+ 2234  rm .git
+ 2235  rm -rf .git
+ 2236  ls
+ 2237  ls -la
+ 2238  code goreact-base
+ 2239  npm init
+ 2240  npm install react react-dom
+ 2241  npm install -D @babel/core@babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
+ 2242  npm install -D @babel/core@babel/preset-env @babel/preset-react babel-loader webpack webpack-cli -y
+ 2243  npm install -y -D @babel/core@babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
+ 2244  yarn add -D @babel/core@babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
+ 2245  ls-remote --tags --heads ssh://git@github.com/babel/preset-env.git
+ 2246  npm install -y -D @babel/core@babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
+ 2247  yarn add -D @babel/core@babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
+ 2248  npm install -D @babel/core @babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
+ 2249  npm run dev
+ 2250  pwd
+ 2251  cd ..
+ 2252  cp goreact-base goreact-mod01
+ 2253  cp -rF goreact-base goreact-mod01
+ 2254  cp -R  goreact-base goreact-mod01
+ 2255  code goreact-mod01
+ 2256  cd ..
+ 2257  code goreact-mod01
+ 2258  ls
+ 2259  git init
+ 2260  git remote add origin https://github.com/lincolnlopes/goreact-mod01.git
+ 2261  git push origin master
+ 2262  git push origin
+ 2263  git push --set-upstream origin master
+ 2264  git remote remove master
+ 2265  git remote --list
+ 2266  git remote show
+ 2267  git remote remove origin 
+ 2268  git remote add origin https://github.com/lincolnlopes/goreact-mod01.git
+ 2269  git push origin master
+ 2270  git push origin master --force
+ 2271  git push origin master -f\n\n
+ 2272  git push --set-upstream origin
+ 2273  git push --set-upstream origin master
+ 2274  git push --set-upstream origin master --force
+ 2275  ls
+ 2276  git add .
+ 2277  git push --set-upstream origin master --force
+ 2278  npm run dev
+ 2279  npm install -D webpack-dev-server
+ 2280  pwd
+ 2281  npm install -D webpack-dev-server
+ 2282  npm run dev
+ 2283  npm install prop-types
+ 2284  git log
+ 2285  npm install -D @babel/plugin-proposal-class-properties
+ 2286  git log
+ 2287  npm install style-loader css-loader -D
+ 2288  npm run dev
+ 2289  npm install -D sass-loader
+ 2290  npm install -D node-sass
+ 2291  npm run dev
+ 2292  npm add file-loader -D
+ 2293  npm run dev
+ 2294  ls
+ 2295  npm run start
+ 2296  npm run test
+ 2297  npm run dev
+ 2298  ls
+ 2299  cd ..
+ 2300  mkdir reactjs.org
+ 2301  cd react
+ 2302  ls
+ 2303  cd reactjs.org
+ 2304  code .
+ 2305  cd ../DEV/
+ 2306  ls
+ 2307  cd ..
+ 2308  cd goreact-mod01
+ 2309  ls
+ 2310  npm run dev
+ 2311  git log
+ 2312  npm run dev
+ 2313  docker ps -a
+ 2314  git log
+ 2315  brew update
+ 2316  brew remove postgresql@11
+ 2317  brew remove postgresql
+ 2318  brew install --list
+ 2319  brew cleanup
+ 2320  brew update node
+ 2321  brew update node@latest
+ 2322  brew upgrade
+ 2323  echo 'export PATH="/usr/local/opt/sqlite/bin:$PATH"' >> ~/.zshrc
+ 2324  export LDFLAGS="-L/usr/local/opt/sqlite/lib"
+ 2325  export CPPFLAGS="-I/usr/local/opt/sqlite/include"
+ 2326  echo 'export PATH="/usr/local/opt/mysql-client/bin:$PATH"' >> ~/.zshrc
+ 2327  export LDFLAGS="-L/usr/local/opt/mysql-client/lib"
+ 2328  export CPPFLAGS="-I/usr/local/opt/mysql-client/include"
+ 2329  ~/.nvm
+ 2330  export CPPFLAGS="-I/usr/local/opt/mysql-client/include"
+ 2331  cd ~/.nvm
+ 2332  pwd
+ 2333  ls
+ 2334  nvm lidy
+ 2335  nvm list
+ 2336  ls
+ 2337  ld
+ 2338  ls
+ 2339  cd ..
+ 2340  yarn global add create-react-app
+ 2341  create-react-app goreact-mod02
+ 2342  cd goreact-mod02
+ 2343  yarn start
+ 2344  code .
+ 2345  git status
+ 2346  git init
+ 2347  git status
+ 2348  git remote add origin https://github.com/lincolnlopes/goreact-mod02.git
+ 2349  git push --set-upstream origin master --force
+ 2350  yarn start
+ 2351  yarn add eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react -D
+ 2352  eslint --init
+ 2353  ls
+ 2354  yarn add -D prettier-init prettier
+ 2355  prettier-init
+ 2356  yarn add -g  -D prettier-init prettier
+ 2357  npm install -g prettier-init\n
+ 2358  prettier-init
+ 2359  install extension vscode-styled-components
+ 2360  yarn add styled-components\n
+ 2361  git add .
+ 2362  git pull
+ 2363  git push
+ 2364  yarn start
+ 2365  cd ..
+ 2366  code goreact-mod01
+ 2367  cd goreact-mod02
+ 2368  git status
+ 2369  git log
+ 2370  yarn add axios
+ 2371  yarn add prop-types
+ 2372  git log
+ 2373  yarn add moment
+ 2374  yarn add font-awsome
+ 2375  yarn add font-awesome
+ 2376  yarn start
+ 2377  npm start
+ 2378  npm dev
+ 2379  npm start
+ 2380  yarn dev
+ 2381  npm install
+ 2382  yarn dev
+ 2383  npm rebuild node-sass
+ 2384  yarn dev
+ 2385  cd ..
+ 2386  mkdir engecred_account
+ 2387  cd engecred_account
+ 2388  npm init
+ 2389  cd engecred_account
+ 2390  code .
+ 2391  pwd
+ 2392  cd Desktop
+ 2393  cd ..
+ 2394  cd Documents/DEV
+ 2395  create-react-app goreact-mod02
+ 2396  create-react-app react-accounts
+ 2397  cd react-accounts
+ 2398  yarn start
+ 2399  code .
+ 2400  yarn start
+ 2401  cd ..
+ 2402  code react-accounts
+ 2403  code goreact-mod02
+ 2404  git remote list
+ 2405  git remote --list
+ 2406  git remove -v
+ 2407  git remote -v
+ 2408  yarn
+ 2409  yarn start
+ 2410  yarn
+ 2411  yarn start
+ 2412  cd ..
+ 2413  ls
+ 2414  cd ..
+ 2415  ls
+ 2416  cd DEV
+ 2417  ls
+ 2418  cd GoStack6
+ 2419  ls
+ 2420  cd Bootcamp
+ 2421  ls
+ 2422  cd Modulo0202b
+ 2423  code .
+ 2424  npm start
+ 2425  yarn sequelize db:migrate
+ 2426  npm install --save mariadb
+ 2427  yarn sequelize db:migrate
+ 2428  dialectOptions: {
+ 2429  yarn sequelize db:migrate
+ 2430  nmap localhost
+ 2431  lsof -i :3306
+ 2432  yarn sequelize db:migrate
+ 2433  ping lincoln-mysql
+ 2434  ping host-mysql
+ 2435  yarn sequelize db:migrate
+ 2436  yarn sequelize db:migrate -v
+ 2437  yarn sequelize db:migrate --debug
+ 2438  yarn sequelize db:migrate 
+ 2439  ping localhost
+ 2440  yarn sequelize db:migrate 
+ 2441  npm install --save mysql2
+ 2442  yarn sequelize db:migrate 
+ 2443  yarn sequelize db:migrate:undo
+ 2444  npm start
+ 2445  yarn sequelize migration:create
+ 2446  yarn sequelize migration:create --name=create-accounts
+ 2447  yarn sequelize db:migrate 
+ 2448  yarn sequelize db:migrate:undo
+ 2449  yarn sequelize db:migrate 
+ 2450  yarn sequelize db:migrate:undo
+ 2451  yarn sequelize db:migrate
+ 2452  yarn sequelize db:migrate:undo
+ 2453  yarn sequelize db:migrate
+ 2454  yarn sequelize db:migrate:undo
+ 2455  yarn sequelize db:migrate
+ 2456  yarn sequelize db:migrate:undo
+ 2457  yarn sequelize db:migrate
+ 2458  yarn sequelize db:migrate:undo
+ 2459  yarn sequelize db:migrate
+ 2460  npm start
+ 2461  pwd
+ 2462  mkdir eng
+ 2463  cd eng
+ 2464  ls
+ 2465  git remote list
+ 2466  git remote
+ 2467  git clone https://github.com/lincolnlopes/gs0202b.git -f .
+ 2468  git clone https://github.com/lincolnlopes/gs0202b.git .
+ 2469  code .
+ 2470  npm install --save mysql2
+ 2471  npm install
+ 2472  npm start
+ 2473  yarn sequelize db:migrate:undo
+ 2474  yarn sequelize db:migrate
+ 2475  npm start
+ 2476  yarn sequelize db:migrate:undo
+ 2477  yarn sequelize db:migrate
+ 2478  npm start
+ 2479  yarn sequelize db:migrate:undo
+ 2480  yarn sequelize db:migrate
+ 2481  npm start
+ 2482  yarn sequelize db:migrate:undo
+ 2483  yarn sequelize db:migrate
+ 2484  npm start
+ 2485  yarn sequelize db:migrate:undo
+ 2486  yarn sequelize db:migrate
+ 2487  npm start
+ 2488  yarn start
+ 2489  ls
+ 2490  cd src
+ 2491  l
+ 2492  ls
+ 2493  cd app
+ 2494  ls
+ 2495  cd ..
+ 2496  ls
+ 2497  mkdir security
+ 2498  cd security
+ 2499  openssl req -nodes -new -x509 -keyout server.key -out server.cert
+ 2500  ls
+ 2501  npm install cors
+ 2502  npm start
+ 2503  yarn start
+ 2504  npm start
+ 2505  yarn build
+ 2506  yarn start
+ 2507  npm start
+ 2508  ls
+ 2509  cd ../../
+ 2510  ls
+ 2511  cd ..
+ 2512  mkdir eng3
+ 2513  cd eng3
+ 2514  git clone https://github.com/lincolnlopes/goreact-mod02.git .
+ 2515  yarn
+ 2516  code .
+ 2517  cd ../
+ 2518  ls
+ 2519  cd goreact-mod02
+ 2520  git push
+ 2521  cd ..
+ 2522  cd eng3
+ 2523  git pull
+ 2524  yarn start
+ 2525  yarn add axios
+ 2526  yarn start
+ 2527  import React, { Component } from "react";\n\nexport default class Planets extends Component {\n  state = {\n    hasErrors: false,\n    planets: {}\n  };\n\n  componentDidMount() {\n    fetch("https://swapi.co/api/planets/4/")\n      .then(res => res.json())\n      .then(res => this.setState({ planets: res }))\n      .catch(() => this.setState({ hasErrors: true }));\n  }\n\n  render() {\n    return <div>{JSON.stringify(this.state.planets)}</div>;\n  }\n
+ 2528  yarn start
+ 2529  npm -v
+ 2530  node -v
+ 2531  yarn start
+ 2532  pwd
+ 2533  yarn start
+ 2534  pwd
+ 2535  cd ..
+ 2536  cd ../ENGECRED
+ 2537  git clone https://github.com/lincolnlopes/accounts-eng.git
+ 2538  ls
+ 2539  cd accounts-eng
+ 2540  ls
+ 2541  cd front
+ 2542  code .
+ 2543  yarn
+ 2544  ls
+ 2545  yarn start
+ 2546  cd ..
+ 2547  ls
+ 2548  cd ../ENGECRED
+ 2549  ls
+ 2550  mkdir importer.xlsx
+ 2551  cd importer.xlsx
+ 2552  ls
+ 2553  git init
+ 2554  ls
+ 2555  node install
+ 2556  node init
+ 2557  ls
+ 2558  node init
+ 2559  yarn init
+ 2560  ls
+ 2561  mkdir src
+ 2562  code .
+ 2563  yarn install node-xlsx
+ 2564  ls
+ 2565  npm install --save node-xlsx mssql
+ 2566  npm dev
+ 2567  npm install -d nodemon
+ 2568  npm dev
+ 2569  node index.js
+ 2570  ls
+ 2571  nodemo index.js
+ 2572  nodemon index.js
+ 2573  npm install -d nodemon
+ 2574  ./nodemon index.js
+ 2575  npm dev
+ 2576  ./nodemon index.js
+ 2577  npm install -g nodemon\n
+ 2578  nodemon script.js\n
+ 2579  npm dev
+ 2580  node dev
+ 2581  npm dev
+ 2582  npm start
+ 2583  npm install moment
+ 2584  npm init
+ 2585  npm install excel-date-to-js
+ 2586  npm dev
+ 2587  node index.js
+ 2588  node index2.js
+ 2589  node node.js
+ 2590  cd ..
+ 2591  git clone https://github.com/SheetJS/sheetjs.git
+ 2592  cd ..
+ 2593  ls
+ 2594  cd ENGECRED
+ 2595  ls
+ 2596  cd sheetjs
+ 2597  ls
+ 2598  npm install
+ 2599  ls
+ 2600  npm build
+ 2601  ls
+ 2602  npm build
+ 2603  ls
+ 2604  cd ..
+ 2605  ls
+ 2606  cd importer.xlsx
+ 2607  ls
+ 2608  node index.js
+ 2609  cd ..
+ 2610  git pull
+ 2611  git push
+ 2612  ls
+ 2613  cd front
+ 2614  code .
+ 2615  ls
+ 2616  yarn start
+ 2617  ping 8.8.8.8
+ 2618  yarn start
+ 2619  pwd
+ 2620  yarn add font-awesome
+ 2621  git pull
+ 2622  yarn start
+ 2623  ls
+ 2624  yarn start
+ 2625  git push
+ 2626  yarn start
+ 2627  ping 8.8.8.8
+ 2628  ls
+ 2629  cd Documents/DEV
+ 2630  ls
+ 2631  cd goreact-mod02
+ 2632  yarn start
+ 2633  ls
+ 2634  cd ..
+ 2635  cd ENGECRED
+ 2636  ls
+ 2637  cd accounts-eng
+ 2638  ls
+ 2639  cd front
+ 2640  ls
+ 2641  cd src
+ 2642  ls
+ 2643  cd styles
+ 2644  ls
+ 2645  cat globals.js
+ 2646  docker -h
+ 2647  docker-compose -h
+ 2648  docker image ls
+ 2649  docker images
+ 2650  docker ps -a
+ 2651  docker ps
+ 2652  ping 8.8.8.8
+ 2653  git log
+ 2654  git remote list
+ 2655  git remote
+ 2656  git remote get-url
+ 2657  git remote get-url --all
+ 2658  git remote --all
+ 2659  ls
+ 2660  git remote get-url --all
+ 2661  git remote get-url
+ 2662  cd ..
+ 2663  ls
+ 2664  yarn global add goreact-mod3
+ 2665  create-react-app goreact-mod03
+ 2666  cd goreact-mod03
+ 2667  code .
+ 2668  cd ..
+ 2669  ls
+ 2670  rm -rf goreact-mod03
+ 2671  pwd
+ 2672  create-react-app goreact-mod03
+ 2673  ls
+ 2674  ls goreact-03
+ 2675  ls goreact-03/
+ 2676  ls /goreact-03/*
+ 2677  ls goreact-03/*
+ 2678  ls ./goreact-03/*
+ 2679  cd goreact-mod03
+ 2680  ls
+ 2681  yarn start
+ 2682  cd ..
+ 2683  rm -rf goreact-mod03
+ 2684  pwd
+ 2685  cd DEV
+ 2686  ls
+ 2687  cd Documents/DEV
+ 2688  ls
+ 2689  rm -rf goreact-mod03
+ 2690  ls
+ 2691  yarn global add create-react-app
+ 2692  create-react-app goreact-mod03
+ 2693  ls
+ 2694  cd goreact-mod03
+ 2695  code .
+ 2696  yarn start
+ 2697  yarn add eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react -D
+ 2698  yarn add redux react-redux
+ 2699  node -v
+ 2700  yar -g update
+ 2701  yarn -g update
+ 2702  nvm list
+ 2703  brew upgrade
+ 2704  export NVM_DIR="$HOME/.nvm"\n  [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm\n  [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && . "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+ 2705  yarn add prop-types
+ 2706  git remote add origin https://github.com/lincolnlopes/goreact-mod03.git
+ 2707  git push
+ 2708  git push --set-upstream origin master --force
+ 2709  ping 8.8.8.8
+ 2710  node index.js
+ 2711  ls
+ 2712  cd ,,
+ 2713  cd..
+ 2714  ls
+ 2715  cd ..
+ 2716  mkdir redux-node
+ 2717  cd redux-node
+ 2718  yarn add redux
+ 2719  code .
+ 2720  ls
+ 2721  node teste.js
+ 2722  yarn add styled-components\n
+ 2723  cd ..
+ 2724  ls
+ 2725  cd goreact-mod03
+ 2726  yarn add styled-components\n
+ 2727  git log
+ 2728  yarn start
+ 2729  pwd
+ 2730  yarn add reactotron-react-js reactotron-redux\n
+ 2731  clear
+ 2732  yarn start
+ 2733  docker run --name some-wordpress -e WORDPRESS_DB_HOST=127.0.0.1:3306 \\n    -e WORDPRESS_DB_USER=root -e WORDPRESS_DB_PASSWORD=lincoln -d wordpress
+ 2734  docker run --name wp -e MYSQL_ROOT_PASSWORD=wp -d mariadb/server:10.3
+ 2735  ls
+ 2736  cd ..
+ 2737  mkdir ad-locksmith
+ 2738  ls
+ 2739  npm init
+ 2740  npm init -y
+ 2741  npm install -g npm
+ 2742  brew upgrade
+ 2743  npm -v
+ 2744  brew update node@latest
+ 2745  brew update npm
+ 2746  brew --help
+ 2747  brew update
+ 2748  brew upgrade
+ 2749  npm install -g npm
+ 2750  npm
+ 2751  brew install node
+ 2752  brew reinstall node
+ 2753  npm -v
+ 2754  ls
+ 2755  cd ad-locksmith/
+ 2756  ls
+ 2757  npm init -y
+ 2758  code .
+ 2759  ls
+ 2760  cd ..
+ 2761  ls
+ 2762  cd react-accounts
+ 2763  ls
+ 2764  code .
+ 2765  ls
+ 2766  cd ..
+ 2767  ls
+ 2768  cd ...
+ 2769  ls
+ 2770  cd ENGECRED
+ 2771  ls
+ 2772  cd Documents/ENGECRED/ls
+ 2773  cd Documents/ENGECRED/
+ 2774  ls
+ 2775  cd accounts-eng/
+ 2776  ls
+ 2777  cd back
+ 2778  code .
+ 2779  cd ../../../DEV/ad-locksmith
+ 2780  ls
+ 2781  yarn add express cors
+ 2782  yarn add eslint eslint-config-prettier eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-plugin-promise eslint-plugin-standard nodemon prettier sequelize-cliexpress cors -D
+ 2783  yarn add eslint eslint-config-prettier eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-plugin-promise eslint-plugin-standard nodemon prettier sequelize-cli express cors -D
+ 2784  yarn start
+ 2785  yarn add express-session
+ 2786  cls
+ 2787  ls
+ 2788  clear
+ 2789  yarn start
+ 2790  yarn add session-file-store
+ 2791  git init -y
+ 2792  git init
+ 2793  git remote add https://github.com/lincolnlopes/ad-locksmith.git
+ 2794  git remote add https://github.com/lincolnlopes/ad-locksmith.git -f
+ 2795  git remote add https://github.com/lincolnlopes/ad-locksmith.git 
+ 2796  git remote set-url --add --push origin https://github.com/lincolnlopes/ad-locksmith.git
+ 2797  git remote set-url --add https://github.com/lincolnlopes/ad-locksmith.git
+ 2798  git remote set-url --add origin https://github.com/lincolnlopes/ad-locksmith.git
+ 2799  git remote -v
+ 2800  git remote set-url --add origin https://github.com/lincolnlopes/ad-locksmith.git --force
+ 2801  git remote set-url --add origin https://github.com/lincolnlopes/ad-locksmith.git
+ 2802  ls
+ 2803  git remove -v
+ 2804  git remote -v
+ 2805  git remote add https://github.com/lincolnlopes/ad-locksmith.git 
+ 2806  git remote add pull origin  https://github.com/lincolnlopes/ad-locksmith.git 
+ 2807  git remote add pull https://github.com/lincolnlopes/ad-locksmith.git 
+ 2808  git status
+ 2809  git push --set-upstream origin master --force
+ 2810  git remote add pull https://github.com/lincolnlopes/ad-locksmith.git 
+ 2811  git remote -v
+ 2812  git remote pull
+ 2813  git remote remove pull
+ 2814  git remote -v
+ 2815  git remote add https://github.com/lincolnlopes/ad-locksmith.git 
+ 2816  git remote add origin https://github.com/lincolnlopes/ad-locksmith.git 
+ 2817  git remote -v
+ 2818  git status
+ 2819  git push --set-upstream origin master --force
+ 2820  yarn add ldapjs activedirectory
+ 2821  ping 10.1.105.10
+ 2822  brew update
+ 2823  brew upgrade
+ 2824  node -v
+ 2825  cd ..
+ 2826  ls
+ 2827  cd..
+ 2828  cd ..
+ 2829  ls
+ 2830  cd ..
+ 2831  cd Projects
+ 2832  ls
+ 2833  cd ac-rr-teste-31
+ 2834  code .
+ 2835  ls
+ 2836  cd ../../../DEV/ad-locksmith
+ 2837  cd ../../Documents/DEV
+ 2838  ls
+ 2839  cd ad-locksmith/
+ 2840  ls
+ 2841  cd ..
+ 2842  ls
+ 2843  mkdir ad-locksmith-netcore
+ 2844  cd ad-locksmith-netcore/
+ 2845  ls
+ 2846  dotnet new
+ 2847  dotnet new sln
+ 2848  dotnet new webapp
+ 2849  ls
+ 2850  dotnet new globaljson
+ 2851  ls
+ 2852  code .
+ 2853  dotnet watch run
+ 2854  dotnet add package Captcha
+ 2855  dotnet watch run
+ 2856  cd ..
+ 2857  ls
+ 2858  c d..
+ 2859  cd ..
+ 2860  ls
+ 2861  cd ad-locksmith-netcore/
+ 2862  ls
+ 2863  git pull
+ 2864  ls
+ 2865  cd ..
+ 2866  ls
+ 2867  git clone https://github.com/lincolnlopes/dotnetcore-ad-locksmith.git
+ 2868  cd dotnetcore-ad-locksmith/
+ 2869  ls
+ 2870  code .
+ 2871  ls
+ 2872  cd adlocksmith.web
+ 2873  dotnet watch run
+ 2874  cd adlocksmith.web
+ 2875  dotnet watch run
+ 2876  cd adlocksmith.web
+ 2877  dotnet watch run
+ 2878  cd adlocksmith.web
+ 2879  ls
+ 2880  dotnet watch run
+ 2881  ls
+ 2882  cd Documents/DEV/dotnetcore-ad-locksmith
+ 2883  cd adlocksmith.web
+ 2884  dotnet watch run
+ 2885  dotnet aspnet-codegenerator razorpage -h\n
+ 2886  dotnet -h\n
+ 2887  dotnet tool
+ 2888  dotnet tool list
+ 2889  dotnet tool install -g dotnet-aspnet-codegenerator
+ 2890  dotnet tool list
+ 2891  dotnet aspnet-codegenerator razorpage -h\n
+ 2892  dotnet tool list
+ 2893  dotnet watch run
+ 2894  ls
+ 2895  dotnet ef database update
+ 2896  cd ..
+ 2897  dotnet ef database update
+ 2898  ls
+ 2899  cd adlocksmith.web
+ 2900  dotnet ef database update
+ 2901  ls
+ 2902  dotnet restore
+ 2903  dotnet ef database update
+ 2904  dotnet tool install --global dotnet-ef
+ 2905  dotnet ef database update
+ 2906  dotnet ef database update -v
+ 2907  ls
+ 2908  cd ,,
+ 2909  cd ..
+ 2910  ls
+ 2911  cd Fomento
+ 2912  git pull
+ 2913  ls
+ 2914  code .
+ 2915  dotnet watch run
+ 2916  dotnet add package BCrypt
+ 2917  ls
+ 2918  cd ..
+ 2919  ls
+ 2920  cd adlocksmith
+ 2921  ls
+ 2922  cd ad-locksmith-netcore
+ 2923  ls
+ 2924  cd ..
+ 2925  cd dotnetcore-ad-locksmith
+ 2926  cd adlocksmith.web
+ 2927  ls
+ 2928  dotnet add package BCrypt
+ 2929  dotnet remove package BCrypt
+ 2930  clear
+ 2931  dotnet watch run
+ 2932  ls
+ 2933  dotnet watch run
+ 2934  ls
+ 2935  cd Documents/DEV/dotnetcore-ad-locksmith
+ 2936  cd adlocksmith.web
+ 2937  cd Documents/DEV/dotnetcore-ad-locksmith
+ 2938  cd adlocksmith.web
+ 2939  dotnet watch run
+ 2940  ls
+ 2941  cd ../../
+ 2942  ls
+ 2943  cd ..
+ 2944  wget https://raw.githubusercontent.com/owncloud/docs/master/modules/admin_manual/examples/installation/docker/docker-compose.yml\n
+ 2945  curl https://raw.githubusercontent.com/owncloud/docs/master/modules/admin_manual/examples/installation/docker/docker-compose.yml\n
+ 2946  ls
+ 2947  curl https://raw.githubusercontent.com/owncloud/docs/master/modules/admin_manual/examples/installation/docker/docker-compose.yml docker-compose.yml\n
+ 2948  curl https://raw.githubusercontent.com/owncloud/docs/master/modules/admin_manual/examples/installation/docker/docker-compose.yml --output docker-compose.yml\n
+ 2949  docker-compose up -d\n
+ 2950  cat << EOF >| .env\nOWNCLOUD_VERSION=10.0.7\nOWNCLOUD_DOMAIN=localhost\nADMIN_USERNAME=admin\nADMIN_PASSWORD=admin\nHTTP_PORT=80\nHTTPS_PORT=443\nEOF
+ 2951  ls
+ 2952  docker-compose up -d\n
+ 2953  ls
+ 2954  cd DEV
+ 2955  dotnet new -i Piranha.Templates\n
+ 2956  dotnet new piranha.blog\n
+ 2957  ls\n
+ 2958  dotnet new -i Piranha.Templates\n
+ 2959  dotnet new -i Piranha.Templates
+ 2960  dotnet new piranha.blog
+ 2961  mkdir engecred.blog
+ 2962  cd engecred.blog
+ 2963  dotnet new piranha.blog
+ 2964  dotnet restore
+ 2965  dotnet watch run
+ 2966  code .
+ 2967  dotnet watch run
+ 2968  lsof -i mail.sicoobengecred.com.br:25
+ 2969  ls
+ 2970  ifconfig
+ 2971  docker cli
+ 2972  docker --help
+ 2973  docker ps
+ 2974  docker nextcloud run apt-get update
+ 2975  docker run apt-get update
+ 2976  docker run --help
+ 2977  ls
+ 2978  docker
+ 2979  docker-machine 
+ 2980  pwd
+ 2981  cd Desktop
+ 2982  cd ..
+ 2983  cd Documents/DEV
+ 2984  ls
+ 2985  mkdir vl-curso-node
+ 2986  cd vl-curso-node
+ 2987  ls
+ 2988  brew upgrade
+ 2989  ls
+ 2990  npm init -y
+ 2991  ls
+ 2992  npm install
+ 2993  ls
+ 2994  npm install express --save
+ 2995  ls
+ 2996  node index
+ 2997  node index.js
+ 2998  npm start
+ 2999  npm main
+ 3000  npm start
+ 3001  npm install nodemon -D
+ 3002  npm start
+ 3003  npm add sequelize
+ 3004  node test.js
+ 3005  npm add mysql2
+ 3006  node test.js
+ 3007  mysql localhost -u root -p
+ 3008  mysql localhost -u root -p 123456
+ 3009  mysql localhost -u root
+ 3010  mysql 127.0.0.1:3306 -u root -p
+ 3011  mysql localhost:3306 -u root -p
+ 3012  mysql -h localhost:3306 -u root -p
+ 3013  mysql -h 127.0.0.1:3306 -u root -p
+ 3014  mysql -h 127.0.0.1:33060 -u root -p
+ 3015  mysql -h localhost:33060 -u root -p
+ 3016  mysql -h localhost -u root -p
+ 3017  mysql -h 127.0.0.1 -u root -p
+ 3018  node test.js
+ 3019  mysql -h 127.0.0.1 -u root -p
+ 3020* ls
+ 3021* node test.js
+ 3022* npm install --save express-handlebars
+ 3023* git init -y
+ 3024* git init
+ 3025* ls
+ 3026* git add .
+ 3027* git commit -m "Start Project"
+ 3028* git remote add origin https://github.com/lincolnlopes/webapp-handlebars.git 
+ 3029* git push --set-upstream origin master --force
+ 3030* git add .
+ 3031* git commit -m "Git Ignore and License"
+ 3032* git push
+ 3033* npm start
+ 3034  npm install express-generator -g
+ 3035  express -h
